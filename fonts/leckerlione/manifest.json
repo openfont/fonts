@@ -1,0 +1,22 @@
+{
+  "name": "Leckerli One",
+  "family": "Leckerli One",
+  "description": "Leckerli is your new fat friend for any display-fun! Its irregular brush shapes indulge you with their sweet character and cheering loops. It is also useful for shorter texts.",
+  "author": "Gesine Todt",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

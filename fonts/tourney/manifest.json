@@ -1,0 +1,25 @@
+{
+  "name": "Tourney",
+  "family": "Tourney",
+  "description": "Tourney is a collaboration of tech and sport. At least, that is where the inspiration came from. Tourney would feel at home on a space ship or in a stadium. The lightest weight of Tourney (100) is almost an outline and that \"stroke\" thickens as the weights increase. 900 is completely solid. To contribute, see github.com/Etcetera-Type-Co/Tourney .",
+  "author": "Tyler Finck, ETC",
+  "website": "https://github.com/Etcetera-Type-Co/Tourney",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

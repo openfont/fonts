@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Wancho",
+  "family": "Noto Sans Wancho",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Wancho is an unmodulated (“sans serif”) design for texts in the Indic Wancho script. It has 95 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/wancho",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

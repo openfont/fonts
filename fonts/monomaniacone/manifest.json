@@ -1,0 +1,24 @@
+{
+  "name": "Monomaniac One",
+  "family": "Monomaniac One",
+  "description": "Monomaniac is a bold Japanese Sans Serif font featuring rounded corners. The letterforms are condensed which work well for vertical typesetting. To contribute to the project, visit github.com/ManiackersDesign/monomaniac",
+  "author": "Maniackers Design",
+  "website": "https://github.com/ManiackersDesign/monomaniac",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

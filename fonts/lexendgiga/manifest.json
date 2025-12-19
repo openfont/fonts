@@ -1,0 +1,24 @@
+{
+  "name": "Lexend Giga",
+  "family": "Lexend Giga",
+  "description": "Lexend is a collection of seven font families intended to improve reading proficiency. As prescription eyeglasses achieve proficiency for persons with short-sightedness, Lexend's families were developed using Shaver-Troup Formulations . All the Lexend fonts have been upgraded to variable fonts with a weight axis (from Thin to Black) in June 2021, thanks to the efforts of Font Bureau. To contribute, see github.com/googlefonts/lexend . For more information, see lexend.com .",
+  "author": "Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion",
+  "website": "https://github.com/googlefonts/lexend",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

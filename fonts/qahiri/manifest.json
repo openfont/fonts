@@ -1,0 +1,23 @@
+{
+  "name": "Qahiri",
+  "family": "Qahiri",
+  "description": "Qahiri is a Kufic typeface based on the modernized and regularized old manuscript Kufic calligraphy style of the late master of Arabic calligraphy, Mohammad Abdul Qadir . Following the convention of naming Kufic styles after the cities they appeared in, Qahiri (قاهري) is named after the city of Cairo, Egypt (القاهرة). To contribute, see github.com/alif-type/qahiri",
+  "author": "Khaled Hosny",
+  "website": "https://github.com/alif-type/qahiri",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

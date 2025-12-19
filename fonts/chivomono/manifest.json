@@ -1,0 +1,25 @@
+{
+  "name": "Chivo Mono",
+  "family": "Chivo Mono",
+  "description": "Chivo (‘goat’ in Spanish) is the first Omnibus-Type neo-grotesque typeface family. Its solidness and balanced strokes give Chivo both elegance and practicality. Chivo Mono is the monospace sibling of Chivo . Likewise, Chivo Mono is a variable font ranging from Thin to Black with matching Italics. The family was developed by Héctor Gatti. To contribute, see github.com/Omnibus-Type/Chivo .",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Chivo",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

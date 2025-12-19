@@ -1,0 +1,23 @@
+{
+  "name": "Lumanosimo",
+  "family": "Lumanosimo",
+  "description": "Lumanosimo is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Lucida Handwriting that minimizes text reflow in Office Open XML documents. Lumanosimo is based on Paprika, which is an expressive typeface. To contribute, please visit github.com/docrepair-fonts/lumanosimo-fonts .",
+  "author": "The DocRepair Project, Eduardo Tunni",
+  "website": "https://github.com/docrepair-fonts/lumanosimo-fonts",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

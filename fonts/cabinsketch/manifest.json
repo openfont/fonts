@@ -1,0 +1,23 @@
+{
+  "name": "Cabin Sketch",
+  "family": "Cabin Sketch",
+  "description": "The Cabin Font is a humanist sans inspired by Edward Johnston’s and Eric Gill’s typefaces, with a touch of modernism. Cabin incorporates modern proportions, optical adjustments, and some elements of the geometric sans. This is the Sketch version, with the texture of a teenage doodle.",
+  "author": "Impallari Type",
+  "website": "https://github.com/impallari/CabinSketch",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

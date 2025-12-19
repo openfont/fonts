@@ -1,0 +1,26 @@
+{
+  "name": "Noto Serif TC",
+  "family": "Noto Serif TC",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif TC is a modulated (“serif”) design for languages in Taiwan, Hong Kong and Macau that use the Traditional Chinese variant of the Han ideograms. It also supports Hiragana, Katakana, Latin, Cyrillic, Greek and Hangul . It has multiple weights.",
+  "author": "Google",
+  "website": "https://www.github.com/notofonts/noto-cjk",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

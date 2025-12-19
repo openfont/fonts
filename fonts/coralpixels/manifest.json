@@ -1,0 +1,23 @@
+{
+  "name": "Coral Pixels",
+  "family": "Coral Pixels",
+  "description": "",
+  "author": "Tanukizamurai",
+  "website": "https://github.com/tanukifont/Coral-Pixels",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

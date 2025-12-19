@@ -1,0 +1,29 @@
+{
+  "name": "Cascadia Mono",
+  "family": "Cascadia Mono",
+  "description": "",
+  "author": "Aaron Bell, Mohamad Dakak, Viktoriya Grabowska, Liron Lavi Turkenich",
+  "website": "https://github.com/microsoft/cascadia-code",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "el",
+    "en",
+    "es",
+    "he",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

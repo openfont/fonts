@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Warang Citi",
+  "family": "Noto Sans Warang Citi",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Warang Citi is an unmodulated (“sans serif”) design for texts in the Indic Varang Kshiti (Warang Citi) script. It has 181 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/warang-citi",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

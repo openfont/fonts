@@ -1,0 +1,25 @@
+{
+  "name": "Inclusive Sans",
+  "family": "Inclusive Sans",
+  "description": "Inclusive Sans is a text font designed for accessibility and readability. It is inspired by the friendly personality of contemporary neo-grotesques while incorporating key features to make it highly legible in all uses. To contribute, see github.com/LivKing/Inclusive-Sans .",
+  "author": "Olivia King",
+  "website": "https://github.com/LivKing/Inclusive-Sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

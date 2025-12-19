@@ -1,0 +1,24 @@
+{
+  "name": "Instrument Serif",
+  "family": "Instrument Serif",
+  "description": "Instrument Serif is a condensed display font designed for the Instrument brand. It is intended for use at large sizes and offers a contemporary take on some of the time-tested characteristics found in old-style serifs. To contribute, please see github.com/Instrument/instrument-serif .",
+  "author": "Rodrigo Fuenzalida, Jordan Egstad",
+  "website": "https://github.com/Instrument/instrument-serif",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

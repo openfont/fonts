@@ -1,0 +1,36 @@
+{
+  "name": "Bai Jamjuree",
+  "family": "Bai Jamjuree",
+  "description": "Bai Jamjuree is a Thai and Latin family which works well for headings and small passages of text. The design was inspired by Eurostyle and other square san serifs.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/Bai-Jamjuree",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

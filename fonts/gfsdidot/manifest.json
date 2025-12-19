@@ -1,0 +1,24 @@
+{
+  "name": "GFS Didot",
+  "family": "GFS Didot",
+  "description": "Under the influence of the neoclassical ideals of the late 18th century, the famous French typecutter Firmin Didot in Paris designed a new Greek typeface (1805) which was immediately used in the publishing programme of Adamantios Korais , the prominent intellectual figure of the Greek diaspora and leading scholar of the Greek Enligntment. The typeface eventually arrived in Greece, with the field press which came with Didot’s grandson Ambroise Firmin Didot, during the Greek Revolution in 1821. Since then the typeface enjoyed an unrivaled success as the type of choice for almost every kind of publication, until the last decades of the 20th century. Didot’s type was the base for a new font, GFS Didot (1994), which was designed by Takis Katsoulidis, and digitised by George Matthiopoulos, of the Greek Font Society . The typeface is accompanied by a matching Latin design, inspired by Hermann Zapf’s Palatino .",
+  "author": "Greek Font Society",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Battambang",
+  "family": "Battambang",
+  "description": "Battambang is a Khmer font for body text. The shape is similar to the Battambang legacy font released in the 1990s. To contribute, see github.com/danhhong/Battambang .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Battambang",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "Light",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

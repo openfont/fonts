@@ -1,0 +1,26 @@
+{
+  "name": "Google Sans Code",
+  "family": "Google Sans Code",
+  "description": "",
+  "author": "Google, Universal Thirst",
+  "website": "https://github.com/googlefonts/googlesans-code",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ff",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

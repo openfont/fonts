@@ -1,0 +1,23 @@
+{
+  "name": "Sixtyfour Convergence",
+  "family": "Sixtyfour Convergence",
+  "description": "",
+  "author": "Simon Cozens, Jens Kutílek",
+  "website": "https://github.com/jenskutilek/homecomputer-fonts",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

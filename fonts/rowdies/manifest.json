@@ -1,0 +1,26 @@
+{
+  "name": "Rowdies",
+  "family": "Rowdies",
+  "description": "Rowdies is a Latin display typeface inspired by the rough &amp; tough Indian action cinema. Roughness and oddness of each individual letter contribute collectively as a typeface to the fantasy of being bold, fearless and strong. Designed by Jaikishan Patel for action, drama, adventure, thriller, noir &amp; crime genres of storytelling. The font family includes 600+ glyphs in 3 weights; Light, Regular, and Bold. To contribute, see https://github.com/magictype/rowdies",
+  "author": "Jaikishan Patel",
+  "website": "https://github.com/magictype/rowdies",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

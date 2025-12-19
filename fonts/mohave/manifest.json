@@ -1,0 +1,24 @@
+{
+  "name": "Mohave",
+  "family": "Mohave",
+  "description": "Mohave is a titling display typeface, initially designed by Gumpita Rahayu as an all-caps display font. In 2013, it was expanded into a 4 weight family including matching italic in 2018. In 2020 Mirko Velimirovic expanded it into a Variable Font with a weight axis. To contribute, see github.com/tokotype/mohave-typefaces .",
+  "author": "Gumpita Rahayu",
+  "website": "https://github.com/tokotype/Mohave-Typefaces",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

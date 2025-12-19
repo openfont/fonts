@@ -1,0 +1,22 @@
+{
+  "name": "Playwrite IT Trad Guides",
+  "family": "Playwrite IT Trad Guides",
+  "description": "",
+  "author": "TypeTogether, Veronika Burian, José Scaglione",
+  "website": "https://github.com/TypeTogether/Playwrite",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "it"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

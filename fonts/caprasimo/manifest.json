@@ -1,0 +1,23 @@
+{
+  "name": "Caprasimo",
+  "family": "Caprasimo",
+  "description": "Caprasimo is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Cooper Black that minimizes text reflow in Office Open XML documents. Caprasimo is based on Fraunces, a display, old-style soft-serif typeface inspired by the mannerisms of early 20th century typefaces such as the Cooper Series. Fraunces was designed by Phaedra Charles and Flavia Zimbardi, partners at Undercase Type. To contribute, please visit github.com/docrepair-fonts/caprasimo-fonts .",
+  "author": "The DocRepair Project, Phaedra Charles, Flavia Zimbardi",
+  "website": "https://github.com/docrepair-fonts/caprasimo-fonts",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

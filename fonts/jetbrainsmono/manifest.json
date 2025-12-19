@@ -1,0 +1,27 @@
+{
+  "name": "JetBrains Mono",
+  "family": "JetBrains Mono",
+  "description": "JetBrains Mono is a typeface made for the specific needs of developers. Find more informations about font features, design and language support on www.jetbrains.com/ . JetBrains Mono is designed by Philipp Nurullin and Konstantin Bulenkov. To contribute, see github.com/JetBrains/JetBrainsMono",
+  "author": "JetBrains, Philipp Nurullin, Konstantin Bulenkov",
+  "website": "https://github.com/JetBrains/JetBrainsMono",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

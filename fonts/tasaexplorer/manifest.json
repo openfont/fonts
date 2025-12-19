@@ -1,0 +1,23 @@
+{
+  "name": "TASA Explorer",
+  "family": "TASA Explorer",
+  "description": "",
+  "author": "Local Remote, Weizhong Zhang",
+  "website": "https://github.com/localremotetw/TASA-Typeface-Collection",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

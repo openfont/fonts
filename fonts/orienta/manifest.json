@@ -1,0 +1,23 @@
+{
+  "name": "Orienta",
+  "family": "Orienta",
+  "description": "Orienta is a spacious sans serif, with excellent visual performance at very small text sizes. The balance between forms and counterforms creates strong legibility. If used in titles, you can see the details are all carefully designed, especially in the strokes of each letter. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/orienta .",
+  "author": "Eduardo Tunni",
+  "website": "https://github.com/etunni/orienta",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

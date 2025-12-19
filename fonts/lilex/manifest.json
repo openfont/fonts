@@ -1,0 +1,27 @@
+{
+  "name": "Lilex",
+  "family": "Lilex",
+  "description": "",
+  "author": "Mike Abbink, Paul van der Laan, Pieter van Rosmalen, Mikhael Khrustik",
+  "website": "https://github.com/mishamyrt/Lilex",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

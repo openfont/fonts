@@ -1,0 +1,24 @@
+{
+  "name": "New Tegomin",
+  "family": "New Tegomin",
+  "description": "A Mincho (Japanese Serif) style font which has been drawn on a square grid. It takes inspiration from Mincho's clean and well organized appearance and the organic nature of handwritten letterforms. To contribute to the project, visit github.com/nagamaki008/NewTegomin",
+  "author": "Kousuke Nagai",
+  "website": "https://github.com/nagamaki008/NewTegomin",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

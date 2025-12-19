@@ -1,0 +1,26 @@
+{
+  "name": "Unna",
+  "family": "Unna",
+  "description": "Unna has a soft look that is expressed through delicated serifs and strong stems, thus accentuating the typical neoclassical vertical texture. The type designer, Jorge de Buen, was inspired to name this design with the surname of his mother.",
+  "author": "Omnibus-Type",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

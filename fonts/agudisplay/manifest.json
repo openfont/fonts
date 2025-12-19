@@ -1,0 +1,24 @@
+{
+  "name": "Agu Display",
+  "family": "Agu Display",
+  "description": "",
+  "author": "Seun Badejo",
+  "website": "https://github.com/theseunbadejo/Agu-Display",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Luxurious Roman",
+  "family": "Luxurious Roman",
+  "description": "Luxurious Roman is a semi-hand lettered font with inconsistent serifs and a subtle bouncy look to create that 'imperfect' hand calligraphed feel. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/luxurious-roman .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/luxurious-roman",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

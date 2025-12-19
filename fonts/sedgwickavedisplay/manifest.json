@@ -1,0 +1,24 @@
+{
+  "name": "Sedgwick Ave Display",
+  "family": "Sedgwick Ave Display",
+  "description": "The Sedgwick Ave project expresses handwritten graffiti letterforms with two designs: This is Sedgwick Ave Display, intended for larger size usage, accompanied by Sedgwick Ave , ideal for text size usage.",
+  "author": "Pedro Vergani, Kevin Burke",
+  "website": "https://github.com/googlefonts/sedgwickave",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

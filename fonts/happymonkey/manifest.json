@@ -1,0 +1,23 @@
+{
+  "name": "Happy Monkey",
+  "family": "Happy Monkey",
+  "description": "Happy Monkey is a display sans serif typeface family, with thin and rounded strokes. Suitable for informal headlines and all your fun typography! Designed by Brenda Gallo and Gustavo Dipre .",
+  "author": "Brenda Gallo",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

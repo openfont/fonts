@@ -1,0 +1,24 @@
+{
+  "name": "Bodoni Moda",
+  "family": "Bodoni Moda",
+  "description": "Bodoni Moda is a no-compromises Bodoni family, built for the digital age. This font family includes a full range of weights, italics, an extended character set, OpenType features, and optical sizes, totalling 64 font files. It was made with love and will continue to improve with your support. The Bodoni Moda project is designed by Owen Earl (indestructible type*). To contribute, see github.com/indestructible-type/Bodoni",
+  "author": "Owen Earl",
+  "website": "https://github.com/indestructible-type/Bodoni",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

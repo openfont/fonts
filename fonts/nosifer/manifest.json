@@ -1,0 +1,23 @@
+{
+  "name": "Nosifer",
+  "family": "Nosifer",
+  "description": "Nobody knows where Nosifer comes from. It emanates a dark stench as it drips from the Internet.",
+  "author": "Typomondo",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

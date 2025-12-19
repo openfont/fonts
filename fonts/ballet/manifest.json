@@ -1,0 +1,24 @@
+{
+  "name": "Ballet",
+  "family": "Ballet",
+  "description": "Ballet is a reinterpretation of the classic Spencerian script style with a few whimsical twists in two different versions: Ballet aligned and crooked, both with Latin GF Plus character set (+630 characters/+800 glyphs). Ballet is designed by Maximiliano Sproviero and developed by Eduardo Tunni. To contribute, see github.com/Omnibus-Type/Ballet",
+  "author": "Omnibus-Type, Maximiliano Sproviero",
+  "website": "https://github.com/Omnibus-Type/Ballet",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

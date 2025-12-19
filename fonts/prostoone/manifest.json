@@ -1,0 +1,24 @@
+{
+  "name": "Prosto One",
+  "family": "Prosto One",
+  "description": "This font was created during a 6 month collaboration by two designers in Russia, Jovanny Lemonad and Pavel Emelyanov. They wanted to make a modern 'accidental grotesque,' useful for logos and presentations. The project's initiator and chief designer is Pavel Emelyanov, who worked with his mentor Ivan Gladkikh, known as Jovanny Lemonad, who helped with technical expertize to finalize the font. To contribute to the project contact Jovanny Lemonad and Pavel Emelyanov .",
+  "author": "Jovanny Lemonad, Pavel Emelyanov",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

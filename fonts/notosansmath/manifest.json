@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Math",
+  "family": "Noto Sans Math",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Math is a font that contains symbols for mathematical notation . It has 2,655 glyphs.",
+  "author": "Google",
+  "website": "https://www.github.com/notofonts/math",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

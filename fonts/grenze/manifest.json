@@ -1,0 +1,41 @@
+{
+  "name": "Grenze",
+  "family": "Grenze",
+  "description": "Grenze is a large text family which features nine weights with matching italics. It draws inspiration from Roman and Blackletter typefaces. It was originally designed to be used in magazines. To contribute, see github.com/Omnibus-Type/Grenze .",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Grenze",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Black Italic",
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic",
+    "Thin",
+    "Thin Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

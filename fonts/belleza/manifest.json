@@ -1,0 +1,23 @@
+{
+  "name": "Belleza",
+  "family": "Belleza",
+  "description": "Belleza is a humanist sans serif typeface inspired by the world of fashion. With classic proportions, high contrast in its strokes and special counters, it provides a fresh look that reminds readers of elegant models and feminine beauty. Belleza is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. The last release in June 2022, offers an major language support update. To contribute, see github.com/etunni/belleza .",
+  "author": "Eduardo Tunni",
+  "website": "https://github.com/etunni/belleza",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

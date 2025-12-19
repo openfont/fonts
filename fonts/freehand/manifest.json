@@ -1,0 +1,23 @@
+{
+  "name": "Freehand",
+  "family": "Freehand",
+  "description": "Freehand is a Khmer font for body text. The design is inspired by a popular style of Khmer handwriting letterforms. To contribute, see github.com/danhhong/Freehand .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Freehand",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

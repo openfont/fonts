@@ -1,0 +1,23 @@
+{
+  "name": "Rye",
+  "family": "Rye",
+  "description": "Foundry: Sorkin Type Co Rye's bold attention getting shapes are useful for advertising. Rye is a medium contrast design inspired by posters using wood type. It gives off a feeling of the American West. It is suitable for use in medium to large sizes including headlines. This font was made specifically to be web type. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Nicole Fally",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

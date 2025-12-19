@@ -1,0 +1,25 @@
+{
+  "name": "Menbere",
+  "family": "Menbere",
+  "description": "",
+  "author": "Aleme Tadesse, Sorkin Type, Eben Sorkin",
+  "website": "https://github.com/SorkinType/Menbere",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "am",
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

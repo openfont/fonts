@@ -1,0 +1,22 @@
+{
+  "name": "Yinmar",
+  "family": "Yinmar",
+  "description": "Yinmar is designed for readable and beautiful rendering of text in the Myanmar script. The designer, Danh Hong , has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language.",
+  "author": "Danh Hong",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "my"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

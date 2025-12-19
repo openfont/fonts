@@ -1,0 +1,24 @@
+{
+  "name": "Danfo",
+  "family": "Danfo",
+  "description": "",
+  "author": "Afrotype, Seyi Olusanya, Eyiyemi Adegbite, David Udoh, Mirko Velimirović",
+  "website": "https://github.com/Afrotype/danfo",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

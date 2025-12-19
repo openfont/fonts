@@ -1,0 +1,24 @@
+{
+  "name": "Anaheim",
+  "family": "Anaheim",
+  "description": "The Anaheim font family is a free font family. The Anaheim Fonts are designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. To contribute, see github.com/googlefonts/anaheimFont .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/anaheimFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

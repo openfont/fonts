@@ -1,0 +1,23 @@
+{
+  "name": "Zen Dots",
+  "family": "Zen Dots",
+  "description": "Zen Dots Family is one of three Latin fonts designed by Yoshimichi Ohira, as part of the Zen Fonts collection. Zen Dots was designed with a futuristic vision and inspired by the different eras in science fiction films. To contribute, see github.com/googlefonts/zen-dots .",
+  "author": "Yoshimichi Ohira",
+  "website": "https://github.com/googlefonts/zen-dots",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

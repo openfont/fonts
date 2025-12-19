@@ -1,0 +1,26 @@
+{
+  "name": "Zen Antique Soft",
+  "family": "Zen Antique Soft",
+  "description": "Zen Antique features two kinds of Antique Japanese with Kanji. The impression of the weights (thickness) of strokes are different among characters—Hiragana and Latin alphabets are slightly lighter, while Katakana and Kanji are slightly heavier, which gives the unique rhythm and taste in this font. This is Zen Antique Soft, a version of Zen Antique with a slightly rounded effect on the corners. To contribute to the project, visit github.com/googlefonts/zen-antique Zen Antique には、古風な雰囲気の二種類の漢字を含む日本語書体があります。 文字によって画線の太さに変化があり、ひらがなと欧文は細め、カタカナと漢字は太めで、フォントに独特のリズムと味わいを与えています。 また、Zen Antique Soft では、角が少し丸くなっています。 このプロジェクトに参加して貢献したい方は、次の URL をご参照ください。 github.com/googlefonts/zen-antique To learn more, read Say Hello to our big new Japanese collection with Zen Fonts (English), The Story of Zen Fonts - interview with Yoshimichi Ohira (English), Zenフォント: 新しい日本語フォントコレクションの登場 - 日本語フォントの複雑な美しさについて - (Japanese), and Zenフォントのおはなし：大平善道さんとのインタビュー (Japanese).",
+  "author": "Yoshimichi Ohira",
+  "website": "https://github.com/googlefonts/zen-antique",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

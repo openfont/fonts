@@ -1,0 +1,24 @@
+{
+  "name": "Mada",
+  "family": "Mada",
+  "description": "Mada is a modernist, unmodulted Arabic typeface inspired by road signage seen around Cairo, Egypt, by Khaled Hosny. The Arabic component is characterized by low descenders, open contours, and low contrast forms, making it suitable for signage, small point sizes, and user interfaces. However Mada can work also as a display typeface, with a modernist and simplistic feeling. The Latin component is a slightly modified version of Source Sans Pro, led by Paul Hunt at Adobe Type. To contribute, see github.com/aliftype/mada",
+  "author": "Khaled Hosny, Paul D. Hunt",
+  "website": "https://github.com/aliftype/mada",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vujahday Script",
+  "family": "Vujahday Script",
+  "description": "Vujaday! That eerie feeling that nothing like this has ever happened before. This script font comes with both a plain and a script stylistic set. Its rough edge adds to the handwritten feel. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/vujahday .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/vujahday",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

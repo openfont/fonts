@@ -1,0 +1,24 @@
+{
+  "name": "Onest",
+  "family": "Onest",
+  "description": "",
+  "author": "Dmitri Voloshin, Andrey Kudryavtsev",
+  "website": "https://github.com/simpals/onest",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

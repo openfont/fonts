@@ -1,0 +1,23 @@
+{
+  "name": "Titan One",
+  "family": "Titan One",
+  "description": "Titan One is a really fat display type with a happy and cheerful personality. It takes most of its essence from hand lettering with big brushes. It is designed to be used mainly on headers and short texts.",
+  "author": "Rodrigo Fuenzalida",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

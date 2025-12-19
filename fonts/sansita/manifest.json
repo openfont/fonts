@@ -1,0 +1,30 @@
+{
+  "name": "Sansita",
+  "family": "Sansita",
+  "description": "Sansita is a tasty new Omnibus Type font designed by Pablo Cosgaya. The flavor of Sansita's lowercase explores the relationship between typography and calligraphy. The elegance of Sansita's uppercase makes this an excellent choice for packaging, brief texts, branding and slogans.",
+  "author": "Omnibus-Type",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Black",
+    "Black Italic",
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

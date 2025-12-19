@@ -1,0 +1,25 @@
+{
+  "name": "Aref Ruqaa",
+  "family": "Aref Ruqaa",
+  "description": "Aref Ruqaa is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. The Latin part is based on AMS Euler, but spaced for regular text rather than mathematics. The Aref Ruqaa project is led by Khaled Hosny, a type designer based in Cairo, Egypt. To contribute, see github.com/alif-type/aref-ruqaa",
+  "author": "Abdullah Aref, Khaled Hosny, Hermann Zapf",
+  "website": "https://github.com/aliftype/aref-ruqaa",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

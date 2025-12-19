@@ -1,0 +1,23 @@
+{
+  "name": "Armata",
+  "family": "Armata",
+  "description": "Armata is a low contrast sans serif text face, with a mixture of familiar and unfamiliar shapes. The steadiness and strength is juxtaposed with some innovative and delicate gestures. Armata can be used in a wide range of sizes.",
+  "author": "Viktoriya Grabowska",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

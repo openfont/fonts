@@ -1,0 +1,26 @@
+{
+  "name": "Srisakdi",
+  "family": "Srisakdi",
+  "description": "Srisakdi is a Thai and Latin family which was inspired by the Rattanakosin period. Its hand written appearance works well for articles of a retrospective nature.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/Srisakdi",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

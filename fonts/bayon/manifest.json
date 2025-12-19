@@ -1,0 +1,23 @@
+{
+  "name": "Bayon",
+  "family": "Bayon",
+  "description": "Bayon is a Khmer font for headlines, titles and subtitles, and even banner designs. To contribute, see github.com/danhhong/Bayon .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Bayon",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

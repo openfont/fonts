@@ -1,0 +1,24 @@
+{
+  "name": "Stick No Bills",
+  "family": "Stick No Bills",
+  "description": "Stick No Bills is a stencil style typeface supporting Sinhala and Latin scripts. The Latin typeface was first developed by Mooniak as the bespoke brand typeface for Stick No Bills poster gallery in Galle, Sri Lanka. Mooniak in collaboration with Stick No Bills open sourced the project and designed Sinhala glyph set to match the Latin set. The project is led by Mooniak and is hosted and developed on Github Mooniak welcomes suggestions and contributions to further develop the project.",
+  "author": "Mooniak",
+  "website": "https://github.com/mooniak/stick-no-bills-font",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "si"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

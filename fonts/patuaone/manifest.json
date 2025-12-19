@@ -1,0 +1,23 @@
+{
+  "name": "Patua One",
+  "family": "Patua One",
+  "description": "Patua One is a slab serif text type designed for use in small sizes. It has low contrast and strong serifs and is intended to generate visual impact. Its thick serifs are curved to provide it with a touch of smoothness and gesture.",
+  "author": "LatinoType",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

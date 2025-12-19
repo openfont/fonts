@@ -1,0 +1,23 @@
+{
+  "name": "Knewave",
+  "family": "Knewave",
+  "description": "Knewave is a new font by Tyler Finck.",
+  "author": "Tyler Finck",
+  "website": "https://github.com/theleagueof/knewave",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

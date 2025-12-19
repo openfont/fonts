@@ -1,0 +1,23 @@
+{
+  "name": "Cause",
+  "family": "Cause",
+  "description": "",
+  "author": "Saurabh Sharma",
+  "website": "https://github.com/xconsau/Cause",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

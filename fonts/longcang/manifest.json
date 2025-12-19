@@ -1,0 +1,23 @@
+{
+  "name": "Long Cang",
+  "family": "Long Cang",
+  "description": "Based on modern calligrapher Chen Xiaomin's handwritten script. LongCang features textured strokes of middling thickness that are raw and primal, yet refined.",
+  "author": "Chen Xiaomin",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lusitana",
+  "family": "Lusitana",
+  "description": "Lusitana is inspired by the type found in the 1572 first edition of \"The Lusiads\", a Portuguese epic poem by Luís Vaz de Camões. This typeface is made for long texts at small sizes.",
+  "author": "Ana Paula Megda",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

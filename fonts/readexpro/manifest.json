@@ -1,0 +1,25 @@
+{
+  "name": "Readex Pro",
+  "family": "Readex Pro",
+  "description": "",
+  "author": "Thomas Jockin, Nadine Chahine, Bonnie Shaver-Troup, Santiago Orozco, Héctor Gómez",
+  "website": "https://github.com/ThomasJockin/readexpro",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

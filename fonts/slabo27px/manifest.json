@@ -1,0 +1,23 @@
+{
+  "name": "Slabo 27px",
+  "family": "Slabo 27px",
+  "description": "Slabo is a collection of size-specific fonts for use in online advertising and other web uses. The collection currently includes this font, Slabo 27px, and Slabo 13px . Each font in the collection is fine-tuned for use at the pixel size in its name. The Slabo project is led by Tiro Typeworks, a type design foundry based in Canada. To contribute, see Slabo on GitHub.",
+  "author": "John Hudson",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

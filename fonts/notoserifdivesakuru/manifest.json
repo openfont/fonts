@@ -1,0 +1,23 @@
+{
+  "name": "Noto Serif Dives Akuru",
+  "family": "Noto Serif Dives Akuru",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Dives Akuru is a design for the historical Indic Dives Akuru script. It has 812 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/dives-akuru",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

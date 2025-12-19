@@ -1,0 +1,23 @@
+{
+  "name": "Metal",
+  "family": "Metal",
+  "description": "Metal is a Khmer font with a design similar to the Khmer Italic metal types published in Cambodia before 1970. To contribute, see github.com/danhhong/Metal .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Metal",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

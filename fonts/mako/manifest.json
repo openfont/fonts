@@ -1,0 +1,23 @@
+{
+  "name": "Mako",
+  "family": "Mako",
+  "description": "Mako is a minimal sans serif designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. The July 2023 update features a bigger glyphset and some minor aesthetic modifications. To contribute, see github.com/googlefonts/MakoFont .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/MakoFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

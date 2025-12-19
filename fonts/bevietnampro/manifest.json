@@ -1,0 +1,41 @@
+{
+  "name": "Be Vietnam Pro",
+  "family": "Be Vietnam Pro",
+  "description": "Be Vietnam Pro is a Neo Grotesk which is well suited to tech companies and startups. We have refined Vietnamese letterforms with diacritics adaptive forms and engineered them for the best readability. To contribute, see github.com/bettergui/BeVietnamPro .",
+  "author": "Lâm Bảo, Tony Le, ViệtAnh Nguyễn",
+  "website": "https://github.com/bettergui/BeVietnamPro",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Black Italic",
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic",
+    "Thin",
+    "Thin Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

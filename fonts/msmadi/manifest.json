@@ -1,0 +1,24 @@
+{
+  "name": "Ms Madi",
+  "family": "Ms Madi",
+  "description": "Ms Madi is a monoline hand written script. It's clean connections and quite legible hand written cursive style works great in situations that require a relatively sophisticated casual look. As with any cursive script, it is never a good idea to use this font in all capital letters. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/ms-madi .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/ms-madi",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

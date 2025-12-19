@@ -1,0 +1,24 @@
+{
+  "name": "Bangers",
+  "family": "Bangers",
+  "description": "Bangers is a comicbook style font which packs a punch! It was designed in the style of mid-20th century superhero comics cover lettering in mind. To contribute, see github.com/googlefonts/bangers .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/bangers",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

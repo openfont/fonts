@@ -1,0 +1,28 @@
+{
+  "name": "Tuffy",
+  "family": "Tuffy",
+  "description": "Tuffy is a grotesque sans-serif type.",
+  "author": "Thatcher Ulrich",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

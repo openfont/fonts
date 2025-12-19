@@ -1,0 +1,23 @@
+{
+  "name": "Niconne",
+  "family": "Niconne",
+  "description": "Nicone is based on the designs of the Stephenson Blake typeface, Madonna, first released in 1925. Madonna itself was based on an earlier face known as 'Bernhard Cursive'. Nicone has been redesigned and shaped to create a new version of the 1925 typeface that can now be used freely as a Libre webfont across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "author": "Vernon Adams",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

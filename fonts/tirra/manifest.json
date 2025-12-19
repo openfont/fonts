@@ -1,0 +1,28 @@
+{
+  "name": "Tirra",
+  "family": "Tirra",
+  "description": "",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-akatab",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "Medium",
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

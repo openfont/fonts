@@ -1,0 +1,25 @@
+{
+  "name": "Farsan",
+  "family": "Farsan",
+  "description": "Farsan is a single-weight typeface that supports the Gujarati and Latin scripts. The Farsan project is led by Pooja Saxena, a type designer based in Bangalore, India. To contribute, see github.com/anexasajoop/farsan",
+  "author": "Pooja Saxena",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "gu",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

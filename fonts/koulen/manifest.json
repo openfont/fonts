@@ -1,0 +1,23 @@
+{
+  "name": "Koulen",
+  "family": "Koulen",
+  "description": "Koulen is a Khmer font for headlines, titles and subtitles, and even banner designs. To contribute, see github.com/danhhong/Koulen .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Koulen",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

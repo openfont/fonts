@@ -1,0 +1,24 @@
+{
+  "name": "Bellefair",
+  "family": "Bellefair",
+  "description": "Bellefair started life as a Latin typeface designed by Nick Shinn. Then a Hebrew typeface was designed as part of the project by Liron Lavi Turkenich, to be a good match in terms of style, weight and overall color.",
+  "author": "Nick Shinn, Liron Lavi Turkenic",
+  "website": "https://github.com/shinntype/bellefair",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "he"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

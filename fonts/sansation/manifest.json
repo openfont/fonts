@@ -1,0 +1,30 @@
+{
+  "name": "Sansation",
+  "family": "Sansation",
+  "description": "Sansation is a sans serif typeface family.",
+  "author": "Bernd Montag",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

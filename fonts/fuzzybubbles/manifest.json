@@ -1,0 +1,25 @@
+{
+  "name": "Fuzzy Bubbles",
+  "family": "Fuzzy Bubbles",
+  "description": "Fuzzy Bubbles is a cute juvenile style. Playful and loose, its innocence is perfect for children's parties. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/fuzzy-bubbles .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/fuzzy-bubbles",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

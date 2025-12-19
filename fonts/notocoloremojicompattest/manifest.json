@@ -1,0 +1,20 @@
+{
+  "name": "Noto Color Emoji Compat Test",
+  "family": "Noto Color Emoji Compat Test",
+  "description": "Test of a font with many color tables for x-browser compatibility.",
+  "author": "Google",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

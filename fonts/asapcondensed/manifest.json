@@ -1,0 +1,39 @@
+{
+  "name": "Asap Condensed",
+  "family": "Asap Condensed",
+  "description": "Asap Condensed is the condensed version of the Asap family . Its a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya and Nicolás Silva, Asap (\"as soon as possible\") has 8 styles: Regular, Medium, Semibold, Bold and its italics. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya and Hector Gatti), and has been developed with the collaboration of Andr&eacute;s Torresi. To contribute, see github.com/Omnibus-Type/AsapCondensed .",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Asap",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Black Italic",
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

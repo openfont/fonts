@@ -1,0 +1,25 @@
+{
+  "name": "Comforter Brush",
+  "family": "Comforter Brush",
+  "description": "Comforter Brush is the \"brushy\" companion of Comforter, a bouncy, upright brush style script a contemporary, and non- traditional script font. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/comforter-brush .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/comforter-brush",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Square Peg",
+  "family": "Square Peg",
+  "description": "This happy font is great for scrapping and casual situations. Square Peg has a shaky, rough, and almost mono-weight with slightly heavier horizontal strokes. It's hand written style lends itself to situations that require playful and casual themes. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/square-peg .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/square-peg",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

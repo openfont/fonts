@@ -1,0 +1,25 @@
+{
+  "name": "Grandstander",
+  "family": "Grandstander",
+  "description": "Grandstander is a display variable font with a weight axis. 9 weights, upright and italic. It supports a wide range of languages in the latin script scope. The Grandstander project is led by Tyler Finck — type designer running Etcetera Type Co in Ithaca, New-York, USA. To contribute, see github.com/Etcetera-Type-Co/Grandstander",
+  "author": "Tyler Finck, ETC",
+  "website": "https://github.com/Etcetera-Type-Co/Grandstander",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

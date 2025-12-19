@@ -1,0 +1,25 @@
+{
+  "name": "Yuji Syuku",
+  "family": "Yuji Syuku",
+  "description": "\"Yuji\" is a series of fonts digitizing handwriting by the calligrapher Yuji Kataoka. Yuji Syuku has tradition and dignity, but is also approachable. This design can be widely accepted by the general public. Fonts in the Yuji Family: Yuji Boku Yuji Mai To contribute to the project, visit github.com/Kinutafontfactory/Yuji",
+  "author": "Kinuta Font Factory",
+  "website": "https://github.com/Kinutafontfactory/Yuji",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

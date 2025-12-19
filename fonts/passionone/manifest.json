@@ -1,0 +1,25 @@
+{
+  "name": "Passion One",
+  "family": "Passion One",
+  "description": "Passion One is a set of 3 display fonts aimed to composing titles in big sizes. Its counterforms decrease as the passion increases! Please use them only for your most passionate thoughts and ideas.",
+  "author": "Fontstage",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Playpen Sans Arabic",
+  "family": "Playpen Sans Arabic",
+  "description": "",
+  "author": "TypeTogether, Azza Alameddine, Laura Meseguer, Veronika Burian, José Scaglione",
+  "website": "https://github.com/TypeTogether/Playpen-Sans",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

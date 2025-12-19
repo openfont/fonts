@@ -1,0 +1,27 @@
+{
+  "name": "Fira Mono",
+  "family": "Fira Mono",
+  "description": "Designed to integrate with the character of the FirefoxOS, the Fira typefaces also aim to cover the legibility needs for a large range of handsets varying in screen quality and rendering. The Fira font family comes in a Sans Serif with 4 weights (Light, Regular, Medium and Bold) all accompanied by italic styles. The package also includes this Mono Spaced variant with 3 weights (Regular, Medium, Bold.) See the Mozilla FirefoxOS Style Guide for more details.",
+  "author": "Carrois Apostrophe",
+  "website": "https://github.com/googlefonts/FiraGFVersion",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "Medium",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Flags",
+  "family": "Flags",
+  "description": "Noto Emoji is an open source font that has you covered for all your emoji needs, including support for the latest Unicode emoji specification. It has multiple weights and features thousands of emoji.",
+  "author": "Google",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

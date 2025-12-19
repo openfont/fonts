@@ -1,0 +1,26 @@
+{
+  "name": "Raleway",
+  "family": "Raleway",
+  "description": "Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. A thorough review and italic was added in 2016. It is a display face and the download features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than its neo-grotesque inspired default character set. It also has a sister family, Raleway Dots . More information can be found at theleagueofmoveabletype.com/raleway and impallari.com/fonts/raleway To contribute to the project, visit github.com/impallari/Raleway",
+  "author": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida",
+  "website": "https://github.com/theleagueof/raleway",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

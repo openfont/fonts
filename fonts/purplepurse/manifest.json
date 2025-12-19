@@ -1,0 +1,23 @@
+{
+  "name": "Purple Purse",
+  "family": "Purple Purse",
+  "description": "Purple Purse draws its inspiration from a vintage Ivory Soap ad from the 1950's. Somewhat of a cross between Bodoni and Pixie, this font finds that it never truly takes itself seriously. The fun little bounce of the typeface gives it a perky personality. To contribute to the project contact Brian J. Bonislawsky .",
+  "author": "Astigmatic",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

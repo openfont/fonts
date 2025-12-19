@@ -1,0 +1,25 @@
+{
+  "name": "Platypi",
+  "family": "Platypi",
+  "description": "",
+  "author": "David Sargent",
+  "website": "https://github.com/d-sargent/platypi",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

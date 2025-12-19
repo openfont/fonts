@@ -1,0 +1,28 @@
+{
+  "name": "DM Mono",
+  "family": "DM Mono",
+  "description": "DM Mono is a three weight, three style family designed for DeepMind. DM Mono was loosely based off of DM Sans , with a reduction in contrast and less geometric proportions. The type design and font development was commissioned from Colophon Foundry , with Creative Direction from the DeepMind team. To contribute, see github.com/googlefonts/dm-mono .",
+  "author": "Colophon Foundry",
+  "website": "https://github.com/googlefonts/dm-mono",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

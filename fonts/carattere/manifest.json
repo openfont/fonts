@@ -1,0 +1,24 @@
+{
+  "name": "Carattere",
+  "family": "Carattere",
+  "description": "Carattere is a beautiful italic style that is perfect for invitations and other uses where formal elegance and beauty are essential. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/carattere .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/carattere",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

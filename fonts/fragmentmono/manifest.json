@@ -1,0 +1,25 @@
+{
+  "name": "Fragment Mono",
+  "family": "Fragment Mono",
+  "description": "Fragment Mono is a monospaced coding version of Helvetica created by modifying and extending Nimbus Sans by URW Design Studio. Fragment Mono is designed by Wei Huang based on Nimbus Sans by URW Design Studio, based on Helvetica by Max Miedinger. To contribute, see github.com/weiweihuanghuang/fragment-mono/",
+  "author": "Wei Huang, URW Design Studio",
+  "website": "https://github.com/weiweihuanghuang/fragment-mono",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

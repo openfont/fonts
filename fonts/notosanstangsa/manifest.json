@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Tangsa",
+  "family": "Noto Sans Tangsa",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Tangsa is a design for the Indic Tangsa script. It has multiple weights, and has 94 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/tangsa",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

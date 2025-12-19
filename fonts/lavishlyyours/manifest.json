@@ -1,0 +1,24 @@
+{
+  "name": "Lavishly Yours",
+  "family": "Lavishly Yours",
+  "description": "One of the first fonts to use ornately embellished capital forms, Lavishly Yours is a charming calligraphic script. Its nearly upright style along with looped lowercase miniscules gives this font a fairly tale look. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/lavishly-yours .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/lavishly-yours",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

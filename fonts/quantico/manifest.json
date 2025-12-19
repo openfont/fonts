@@ -1,0 +1,26 @@
+{
+  "name": "Quantico",
+  "family": "Quantico",
+  "description": "Quantico is an angular typeface family that was inspired by old beer packaging and military lettering. It utilizes 30 degree angles and completely straight lines to form unique character shapes. Documentation can be found at www.madtype.com and to contribute to the project contact Matthew Desmond at mattdesmond@gmail.com",
+  "author": "MADType",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

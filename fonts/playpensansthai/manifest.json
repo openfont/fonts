@@ -1,0 +1,24 @@
+{
+  "name": "Playpen Sans Thai",
+  "family": "Playpen Sans Thai",
+  "description": "",
+  "author": "TypeTogether, Sirin Gunkloy, Laura Meseguer, Veronika Burian, José Scaglione",
+  "website": "https://github.com/TypeTogether/Playpen-Sans",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

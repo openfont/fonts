@@ -1,0 +1,23 @@
+{
+  "name": "Combo",
+  "family": "Combo",
+  "description": "Combo has a simple structure, based on the elliptical arcs and strokes of a flat-tipped marker pen. This display typeface is suitable for use in advertisements, headlines and short texts.",
+  "author": "Eduardo Tunni",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

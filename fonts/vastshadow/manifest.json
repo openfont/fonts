@@ -1,0 +1,22 @@
+{
+  "name": "Vast Shadow",
+  "family": "Vast Shadow",
+  "description": "Foundry: Sorkin Type Co Vast is a Victorian slab serif advertising type. Vast has a feeling of sturdy solidity combined with just a little bit of refinement. Because Vast Shadow has a thin shadow that won't display well at small sizes we recommend that you use it from 32px and larger. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Nicole Fally",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kreon",
+  "family": "Kreon",
+  "description": "Kreon targets text typesetting for magazines and news sites. With a slight slab-serif look and the low contrast design, it is a sturdy typeface for your website, blog or online magazine. Its friendly feel will soon be accompanied by a sans serif as well as italics. Enjoy.",
+  "author": "Julia Petretta",
+  "website": "https://github.com/googlefonts/kreon",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

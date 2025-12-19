@@ -1,0 +1,27 @@
+{
+  "name": "Noto Sans HK",
+  "family": "Noto Sans HK",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans HK is an unmodulated (“sans serif”) design for languages in Hong Kong that use the Traditional Chinese variant of the Han ideograms. It also supports Latin, Cyrillic, Greek, Katakana, Hiragana and Hangul . It has multiple weights.",
+  "author": "Google",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "yue",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Imbue",
+  "family": "Imbue",
+  "description": "Imbue is a variable condensed didone made for your special occasion. The result is something crisp and curvy with two variable axes: weight and optical size. Imbue was designed by Tyler Finck. To contribute, see github.com/Etcetera-Type-Co/Imbue",
+  "author": "Tyler Finck, ETC",
+  "website": "https://github.com/Etcetera-Type-Co/Imbue",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

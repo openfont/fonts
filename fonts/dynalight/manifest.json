@@ -1,0 +1,23 @@
+{
+  "name": "Dynalight",
+  "family": "Dynalight",
+  "description": "Dynalight is a dynamic high speed script inspired by a vintage luggage tag for the Southern Pacific 4449 Daylight steam locomotive. Loaded with curves and soft angles, this connecting script is an attention getter.",
+  "author": "Astigmatic",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

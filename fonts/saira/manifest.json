@@ -1,0 +1,25 @@
+{
+  "name": "Saira",
+  "family": "Saira",
+  "description": "Saira is a sans serif system. It features a huge range of weights and widths, ready for all kind of typographic challenges. This is the Normal family, which is part of the superfamily along with Semi Condensed , Condensed , and Extra Condensed , each with 9 weights. Saira has been upgraded in 2020 to a variable font with axes for weight and width, adding expanded widths to the superfamily. This typeface was designed by Hector Gatti and developed by the Omnibus Type team. To contribute to the project, visit github.com/Omnibus-Type/Saira",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Saira",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

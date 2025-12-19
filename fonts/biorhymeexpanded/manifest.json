@@ -1,0 +1,27 @@
+{
+  "name": "BioRhyme Expanded",
+  "family": "BioRhyme Expanded",
+  "description": "BioRhyme is a Latin typeface family comprised of two widths, a normal family and an expanded family. Each family has 5 weights, and both are intended for use in large and medium sizes. To contribute, see github.com/aoifemooney/makingbiorhyme",
+  "author": "Aoife Mooney",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

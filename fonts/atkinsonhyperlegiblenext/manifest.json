@@ -1,0 +1,24 @@
+{
+  "name": "Atkinson Hyperlegible Next",
+  "family": "Atkinson Hyperlegible Next",
+  "description": "",
+  "author": "Braille Institute, Applied Design Works, Elliott Scott, Megan Eiswerth, Letters From Sweden",
+  "website": "https://github.com/googlefonts/atkinson-hyperlegible-next",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

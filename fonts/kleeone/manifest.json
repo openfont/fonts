@@ -1,0 +1,27 @@
+{
+  "name": "Klee One",
+  "family": "Klee One",
+  "description": "Klee is a script font handwritten by pencil or pen. Its quiet design has an elegant look that sets itself apart from traditional script and textbook fonts. Ideal for body text. To contribute to the project, visit github.com/fontworks-fonts/Klee",
+  "author": "Fontworks Inc.",
+  "website": "https://github.com/fontworks-fonts/Klee",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

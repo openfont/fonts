@@ -1,0 +1,24 @@
+{
+  "name": "Oleo Script",
+  "family": "Oleo Script",
+  "description": "Oleo is a flowy yet legible non-connected script typeface. It is perfect for situations where a quaint and casual lettering effect is desired. Suitable for various typography contexts including captions, headlines, packaging, invitations, cards, posters, advertising, greeting cards, and book jackets. Oleo Script is currently available in two weights, Regular and Bold. It has also a Swash Caps sister family, also available in Regular and Bold. Oleo Script is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. For more information see the Soytutype website, follow us on Twitter @soytutype or Google+ or contact Soytutype .",
+  "author": "soytutype fonts",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

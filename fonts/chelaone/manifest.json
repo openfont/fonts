@@ -1,0 +1,23 @@
+{
+  "name": "Chela One",
+  "family": "Chela One",
+  "description": "Chela One is a bold and condensed brush script typeface from Chilean type foundry LatinoType .",
+  "author": "Miguel Hernandez",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

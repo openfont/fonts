@@ -1,0 +1,24 @@
+{
+  "name": "Bungee Spice",
+  "family": "Bungee Spice",
+  "description": "",
+  "author": "David Jonathan Ross",
+  "website": "https://github.com/djrrb/Bungee",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

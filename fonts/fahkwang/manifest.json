@@ -1,0 +1,36 @@
+{
+  "name": "Fahkwang",
+  "family": "Fahkwang",
+  "description": "Fahkwang is a Thai and Latin san serif family which features a high contrast. It has been inspired by headlines in old Thai newspapers.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/Fah-Kwang",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

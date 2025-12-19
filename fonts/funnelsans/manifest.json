@@ -1,0 +1,24 @@
+{
+  "name": "Funnel Sans",
+  "family": "Funnel Sans",
+  "description": "",
+  "author": "NORD ID, Kristian Möller",
+  "website": "https://github.com/Dicotype/Funnel",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

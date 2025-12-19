@@ -1,0 +1,22 @@
+{
+  "name": "Megrim",
+  "family": "Megrim",
+  "description": "Megrim is an experimental font covering most of the basic Western Latin character set. It has stylistic alternates.",
+  "author": "Daniel Johnson",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

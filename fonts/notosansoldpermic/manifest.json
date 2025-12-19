@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Old Permic",
+  "family": "Noto Sans Old Permic",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Old Permic is an unmodulated (“sans serif”) design for texts in the historical European Old Permic script. It has 56 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/old-permic",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

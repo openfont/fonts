@@ -1,0 +1,20 @@
+{
+  "name": "Flags",
+  "family": "Flags",
+  "description": "Noto Color Emoji is an open source font that has you covered for all your emoji needs, including support for the latest Unicode emoji specification. It features thousands of emoji. This font uses the COLRv1, CPAL and SVG tables. Please visit the gf-guide color page to learn more about Color Fonts technology.",
+  "author": "Google",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lacquer",
+  "family": "Lacquer",
+  "description": "Lacquer is an expressive display font featuring heavy drips and dozens of alternate glyphs. Lacquer was hand drawn using a paint pen by Niki Polyocan and was extrapolated and finished by Eli Block at Google Creative Lab. You can see all of Lacquer’s glyphs on the font’s web specimen . To contribute, see github.com/Lacquer-Font/Lacquer .",
+  "author": "Niki Polyocan, Eli Block",
+  "website": "https://github.com/Lacquer-Font/Lacquer",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

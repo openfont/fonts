@@ -1,0 +1,27 @@
+{
+  "name": "Scada",
+  "family": "Scada",
+  "description": "In 2005, Scada was designed as the corporate identity font for the Latvian design studio Scada.lv . In 2011 the design studio decided to make Scada a libre font. Over 6 months the font was reworked, improved and expanded into a family. It has a modern style, specifically designed for small sizes.",
+  "author": "Jovanny Lemonad",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

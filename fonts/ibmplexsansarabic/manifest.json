@@ -1,0 +1,31 @@
+{
+  "name": "IBM Plex Sans Arabic",
+  "family": "IBM Plex Sans Arabic",
+  "description": "IBM Plex™ is an international typeface family designed by Mike Abbink, IBM BX&amp;D, in collaboration with Bold Monday, an independent Dutch type foundry. Plex was designed to capture IBM’s spirit and history, and to illustrate the unique relationship between mankind and machine—a principal theme for IBM since the turn of the century. The result is a neutral, yet friendly Grotesque style typeface that includes a Sans, Sans Condensed, Mono, Serif, and several other styles for several languages , and has excellent legibility in print, web and mobile interfaces. Plex’s three designs work well independently, and even better together. Use the Sans as a contemporary compadre, the Serif for editorial storytelling, or the Mono to show code snippets. The unexpectedly expressive nature of the italics give you even more options for your designs.",
+  "author": "Mike Abbink, Bold Monday",
+  "website": "https://github.com/googlefonts/plex",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "ExtraLight",
+    "Light",
+    "Medium",
+    "Regular",
+    "SemiBold",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Amarna",
+  "family": "Amarna",
+  "description": "",
+  "author": "Ishtar van Looy",
+  "website": "https://github.com/ijvanl/Amarna",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

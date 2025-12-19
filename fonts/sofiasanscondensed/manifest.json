@@ -1,0 +1,26 @@
+{
+  "name": "Sofia Sans Condensed",
+  "family": "Sofia Sans Condensed",
+  "description": "Originaly designed as a typeface for the capital city of Bulgaria, Sofia Sans is a comprehensive type system in four widths ( Normal , SemiCondensed , Condensed and ExtraCondensed ) with extended coverage of the Latin, Greek, and Cyrillic Scripts. Inspired by the early-twentieth-century so-called technical sans serifs typefaces with confident letterforms, a pronounced vertical impetus, and tense curves, Sofia Sans also has nice humanistic details and soft round corners that reminds print work with hot metal typesetting. With narrow proportions and a generous x-height, is a space-saving workhorse that would work well in very diverse environments. Sofia Sans is also a feature-rich OpenType family with a large character set including small caps, several figure styles, arrows, numerals in circles among others. To contribute, see github.com/lettersoup/Sofia-Sans .",
+  "author": "Lettersoup, Botio Nikoltchev, Ani Petrova",
+  "website": "https://github.com/lettersoup/Sofia-Sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

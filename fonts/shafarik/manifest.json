@@ -1,0 +1,24 @@
+{
+  "name": "Shafarik",
+  "family": "Shafarik",
+  "description": "The Shafarik font, named after Pavel Jozef Šafárik (1795–1861), Slovak-born scholar and one of the founders of modern Slavic philology, is a specialized font intended for an academic presentation of Old Church Slavonic (OCS) texts written in either the Cyrillic or Glagolitic alphabets. To contribute, please see github.com/slavonic/Shafarik .",
+  "author": "Aleksandr Andreev",
+  "website": "https://github.com/slavonic/shafarik",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

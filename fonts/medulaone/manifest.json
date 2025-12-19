@@ -1,0 +1,23 @@
+{
+  "name": "Medula One",
+  "family": "Medula One",
+  "description": "Medula One is a friendly rhythmic sans serif with brush-like end strokes. Economical and capable of straightforward display work, Medula One remixes the old and the new, the organic and the modern into a fresh and versatile condensed typeface.",
+  "author": "LatinoType",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

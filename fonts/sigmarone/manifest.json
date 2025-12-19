@@ -1,0 +1,24 @@
+{
+  "name": "Sigmar One",
+  "family": "Sigmar One",
+  "description": "Sigmar is a casual, display specific webfont. It's design is based upon various fonts found in mid twentieth century pulp magazine advertising.",
+  "author": "Vernon Adams",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

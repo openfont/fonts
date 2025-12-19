@@ -1,0 +1,26 @@
+{
+  "name": "Afacad",
+  "family": "Afacad",
+  "description": "",
+  "author": "Kristian Möller, Dicotype",
+  "website": "https://github.com/Dicotype/Afacad",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

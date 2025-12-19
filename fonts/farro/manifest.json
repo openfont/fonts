@@ -1,0 +1,26 @@
+{
+  "name": "Farro",
+  "family": "Farro",
+  "description": "Farro is an artsy, four-weighted, display typeface that has a peculiar personality flowing through its European humanist silhouette. To contribute, see github.com/grayscaleltd/farro> .",
+  "author": "Grayscale",
+  "website": "https://github.com/grayscaleltd/farro",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Medium",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

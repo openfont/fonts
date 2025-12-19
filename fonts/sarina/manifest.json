@@ -1,0 +1,23 @@
+{
+  "name": "Sarina",
+  "family": "Sarina",
+  "description": "Foundry: Sorkin Type Co Sarina is a display typeface with brush style letterforms. Sarina's medium contrast and wide setting offers a casual breezy feeling. Sarina is appropriate for medium to larger sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "James Grieshaber",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

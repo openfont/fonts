@@ -1,0 +1,23 @@
+{
+  "name": "Meie Script",
+  "family": "Meie Script",
+  "description": "Meie Script is a typeface, which is based on the original 1910 Estonian handwriting standard. It is less flamboyant then its Western European contemporaries. Estonian handwriting has been influenced greatly by German and Russian handwriting styles and Meie Script embodies a mixture of those two styles. Designed by Johan Kallas and Mihkel Virkus.",
+  "author": "Johan Kallas, Mihkel Virkus",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

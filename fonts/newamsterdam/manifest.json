@@ -1,0 +1,23 @@
+{
+  "name": "New Amsterdam",
+  "family": "New Amsterdam",
+  "description": "",
+  "author": "Vladimir Nikolic",
+  "website": "https://github.com/vladimirnikolic1/NewAmsterdam",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

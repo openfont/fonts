@@ -1,0 +1,24 @@
+{
+  "name": "Unica One",
+  "family": "Unica One",
+  "description": "Unica One is a condensed unicase sans serif style. Good performance for composing headlines and short texts. Readbility and simplicity are some of the virtues of this unique typeface. Since Junuary 2023, the glyphset is completed and and the font has a bigger language support To contribute, see github.com/etunni/unica .",
+  "author": "Eduardo Tunni",
+  "website": "https://github.com/etunni/unica",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

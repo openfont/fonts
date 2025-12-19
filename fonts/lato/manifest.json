@@ -1,0 +1,43 @@
+{
+  "name": "Lato",
+  "family": "Lato",
+  "description": "Lato means “Summer” in Polish, and it is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. Originally conceived as part of a corporate identity for a large client, the family became available for a public release when they decided to go in different stylistic direction. Łukasz tried to carefully balance some potentially conflicting priorities in the design; to create a typeface that seems “transparent” when used in body text but also displays original traits in larger size use. Classical proportions, particularly in the uppercase, give the letterforms familiar harmony and elegance, and combine with a sleek treatement that feels contemporary without being trendy. Semi-rounded details feel warm, while the underlying structure provides stability and seriousness. “Serious but friendly, with the feeling of the Summer,” said Łukasz. Learn more at latofonts.com",
+  "author": "Łukasz Dziedzic",
+  "website": "https://github.com/googlefonts/LatoGFVersion",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Black Italic",
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic",
+    "Thin",
+    "Thin Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

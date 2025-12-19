@@ -1,0 +1,23 @@
+{
+  "name": "Telex",
+  "family": "Telex",
+  "description": "Telex is a humanist sans serif conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness. Designed by Andrés Torresi for Huerta Tipográfica .",
+  "author": "Huerta Tipográfica",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

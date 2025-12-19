@@ -1,0 +1,25 @@
+{
+  "name": "Annapurna SIL",
+  "family": "Annapurna SIL",
+  "description": "Annapurna SIL is a Unicode-based font family with broad support for writing systems that use the Devanagari script. To contribute, please see github.com/silnrsi/font-annapurna .",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-annapurna",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

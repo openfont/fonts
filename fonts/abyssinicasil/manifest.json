@@ -1,0 +1,24 @@
+{
+  "name": "Abyssinica SIL",
+  "family": "Abyssinica SIL",
+  "description": "Abyssinica SIL is a Unicode font that supports Ethiopic and Latin languages. For more information please visit the Abyssinica SIL page on SIL International's Computers and Writing systems website, scripts.sil.org/AbyssinicaSIL To contribute, see github.com/silnrsi/font-abyssinica",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-abyssinica",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "am",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

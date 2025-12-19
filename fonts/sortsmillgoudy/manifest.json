@@ -1,0 +1,24 @@
+{
+  "name": "Sorts Mill Goudy",
+  "family": "Sorts Mill Goudy",
+  "description": "A revival of Frederic Goudy's 'Goudy Oldstyle' with Regular and Italic styles, and extended Latin character coverage.",
+  "author": "Barry Schwartz",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

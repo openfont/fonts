@@ -1,0 +1,23 @@
+{
+  "name": "Black And White Picture",
+  "family": "Black And White Picture",
+  "description": "Black And White Picture is a Korean font that expresses the nostalgia of faded black and white photos through its old and scratchy texture. A matching Latin font, Flavors , is built-in for convenience.",
+  "author": "AsiaSoft Inc.",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

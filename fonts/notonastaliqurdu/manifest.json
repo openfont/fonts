@@ -1,0 +1,24 @@
+{
+  "name": "Noto Nastaliq Urdu",
+  "family": "Noto Nastaliq Urdu",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Nastaliq Urdu is a cursive, modulated (“serif”) Nastaliq design for texts in the Middle Eastern Arabic script, especially in the Urdu language. It has 1,138 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/nastaliq",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

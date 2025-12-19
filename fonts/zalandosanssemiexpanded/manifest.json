@@ -1,0 +1,24 @@
+{
+  "name": "Zalando Sans SemiExpanded",
+  "family": "Zalando Sans SemiExpanded",
+  "description": "",
+  "author": "Jakob Ekelund, KH Type, Zalando",
+  "website": "https://github.com/zalando/sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

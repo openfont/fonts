@@ -1,0 +1,24 @@
+{
+  "name": "League Spartan",
+  "family": "League Spartan",
+  "description": "League Spartan is The League Of Moveable Type's interpretation of Matt Bailey's Spartan , a typeface based on early 20th century American geometric sans serifs. To contribute, see github.com/theleagueof/league-spartan .",
+  "author": "Matt Bailey, Tyler Finck",
+  "website": "https://github.com/theleagueof/league-spartan",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

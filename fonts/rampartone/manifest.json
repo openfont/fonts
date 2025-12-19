@@ -1,0 +1,25 @@
+{
+  "name": "Rampart One",
+  "family": "Rampart One",
+  "description": "Rampart is a unique outline shadow font made in the image of 3-D blocks. It is best used for added impact or to demonstrate strength and stability. To contribute to the project, visit github.com/fontworks-fonts/Rampart",
+  "author": "Fontworks Inc.",
+  "website": "https://github.com/fontworks-fonts/Rampart",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

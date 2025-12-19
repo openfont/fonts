@@ -1,0 +1,23 @@
+{
+  "name": "Gorditas",
+  "family": "Gorditas",
+  "description": "Gorditas is a fun and funky display slab serif typeface family, with heart details - cute like a newborn puppy! Designed by Brenda Gallo and Gustavo Dipre .",
+  "author": "Gustavo Dipre",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

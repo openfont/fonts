@@ -1,0 +1,28 @@
+{
+  "name": "Caudex",
+  "family": "Caudex",
+  "description": "Caudex is a Unicode TrueType font created with FontForge. It is developed on SourceForge . It includes most of the Medieval Unicode Font Initiative (MUFI) version 3.0 recommendations. The font was originally made in the late nineties using the ISO 8859-1 character set, and used for printing some old handwritten text. Greek is also included.",
+  "author": "Nidud",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

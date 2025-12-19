@@ -1,0 +1,22 @@
+{
+  "name": "Lohit Tamil",
+  "family": "Lohit Tamil",
+  "description": "The Lohit Tamil font is from the Fedora Project .",
+  "author": "Multiple Designers",
+  "website": "https://github.com/pravins/lohit",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ta"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

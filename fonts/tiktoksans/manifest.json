@@ -1,0 +1,26 @@
+{
+  "name": "TikTok Sans",
+  "family": "TikTok Sans",
+  "description": "",
+  "author": "Grilli Type, Contrast Foundry, Type Network",
+  "website": "https://github.com/TikTok/TikTokSans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

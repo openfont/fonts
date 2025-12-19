@@ -1,0 +1,25 @@
+{
+  "name": "Sarala",
+  "family": "Sarala",
+  "description": "Sarala is a Devanagari typeface family designed by Andrés Torresi and Carolina Giovagnoli for Huerta Tipográfica. It is based on the original Latin typeface Telex , a sans serif typeface for text. It is a humanist sans serif design, conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness. Thanks to José Nicolás Silva, Vaishnavi Murthy and Erin McLaughlin for their feedback. The Sarala project is led by Andrés Torresi, a type designer based in Argentina. To contribute, see github.com/andrestelex/sarala",
+  "author": "Andres Torresi",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

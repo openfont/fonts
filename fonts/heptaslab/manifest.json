@@ -1,0 +1,24 @@
+{
+  "name": "Hepta Slab",
+  "family": "Hepta Slab",
+  "description": "Hepta Slab is a slab-serif revival based on specimens of antique genre types from Bruce and Co., primarily Antique 307. The family is a variable font which consists of 10 weights with the extremes intended for display use and the middle weights for setting text. To contribute, see github.com/mjlagattuta/Hepta-Slab .",
+  "author": "Mike LaGattuta",
+  "website": "https://github.com/mjlagattuta/Hepta-Slab",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

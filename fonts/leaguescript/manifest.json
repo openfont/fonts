@@ -1,0 +1,22 @@
+{
+  "name": "League Script",
+  "family": "League Script",
+  "description": "This ain’t no Lucida. League Script is a modern, coquettish script font that sits somewhere between your high school girlfriend’s love notes and handwritten letters from the ’20s. Designed for the League of Moveable Type , it includes ligatures and will act as the framework for future script designs.",
+  "author": "Haley Fiege",
+  "website": "https://github.com/theleagueof/league-script-number-one",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

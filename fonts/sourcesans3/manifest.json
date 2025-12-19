@@ -1,0 +1,27 @@
+{
+  "name": "Source Sans 3",
+  "family": "Source Sans 3",
+  "description": "Source&#174; Sans Pro, Adobe's first open source typeface family, was designed by Paul D. Hunt. It is a sans serif typeface intended to work well in user interfaces. To contribute, see github.com/adobe-fonts/source-sans",
+  "author": "Paul D. Hunt",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Playwrite AU NSW Guides",
+  "family": "Playwrite AU NSW Guides",
+  "description": "",
+  "author": "TypeTogether, Veronika Burian, José Scaglione",
+  "website": "https://github.com/TypeTogether/Playwrite",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

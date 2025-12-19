@@ -1,0 +1,23 @@
+{
+  "name": "Galada",
+  "family": "Galada",
+  "description": "Galada is a Bengali and Latin font that started with the famous Latin Lobster font, and extended the design to Bengali. The Bengali was developed as a studio collaboration by Jeremie Hornus, Yoann Minet, and Juan Bruce. The Galada project is led by Black Foundry, a type design foundry based in Paris, France. To contribute, see github.com/TypefactoryNet/Galada",
+  "author": "Black Foundry",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "bn",
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

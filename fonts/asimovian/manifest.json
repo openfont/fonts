@@ -1,0 +1,24 @@
+{
+  "name": "Asimovian",
+  "family": "Asimovian",
+  "description": "",
+  "author": "Carolina Short",
+  "website": "https://github.com/carolinashort/asimovian",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

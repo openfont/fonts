@@ -1,0 +1,23 @@
+{
+  "name": "Joan",
+  "family": "Joan",
+  "description": "Inspired by the roman cut by Francesco Griffo, it is a tribute to the Italian style, a model to follow even in the 15th century. Joan is characterized by neat serifs as well as sharp terminals and is intended for books and magazines. At the moment, only the roman is available. The italic variant is under development. To contribute, see github.com/PaoloBiagini/Joan .",
+  "author": "Paolo Biagini",
+  "website": "https://github.com/PaoloBiagini/Joan",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Advent Pro",
+  "family": "Advent Pro",
+  "description": "Advent Pro is a modern font designed for web and print. Advent Pro utilizes some of the universal characteristics of the sans-serif genre with modern characteristics to give an edge to your typography. The family was upgraded to a variable font with additional Italic styles in December 2022. The spacing and kerning was improved, which could lead to a slightly different text line length than the previous version. To contribute, see github.com/googlefonts/Advent .",
+  "author": "VivaRado",
+  "website": "https://github.com/googlefonts/Advent",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

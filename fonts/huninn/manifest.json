@@ -1,0 +1,26 @@
+{
+  "name": "Huninn",
+  "family": "Huninn",
+  "description": "",
+  "author": "justfont",
+  "website": "https://github.com/justfont/Huninn",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

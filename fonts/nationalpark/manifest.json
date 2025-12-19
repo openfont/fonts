@@ -1,0 +1,24 @@
+{
+  "name": "National Park",
+  "family": "National Park",
+  "description": "",
+  "author": "Andrea Herstowski, Ben Hoepner, Jeremy Shellhorn",
+  "website": "https://github.com/benhoepner/National-Park",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

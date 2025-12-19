@@ -1,0 +1,24 @@
+{
+  "name": "Sintony",
+  "family": "Sintony",
+  "description": "Sintony is a modern sans serif typeface, drawn with a slightly square structure and smooth stroke modulation. Great for long passages of text, he provides any text with a calm and clear feeling.",
+  "author": "Eduardo Rodriguez Tunni",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

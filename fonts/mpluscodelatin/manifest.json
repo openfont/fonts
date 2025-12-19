@@ -1,0 +1,24 @@
+{
+  "name": "M PLUS Code Latin",
+  "family": "M PLUS Code Latin",
+  "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus Code Latin is a Sans Serif font with seven weights from Thin to Bold, supporting GF Latin Plus. Because this font is for programming usage, it has high readability even in small sizes, and letterforms are designed to avoid misreadings as much as possible. There are two styles—Mplus Code Latin 50 and Mplus Code Latin 60, each having 50% and 60% character width. To contribute to the project, visit https://github.com/coz-m/MPLUS_FONTS",
+  "author": "Coji Morishita",
+  "website": "https://github.com/coz-m/MPLUS_FONTS",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

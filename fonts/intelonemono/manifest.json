@@ -1,0 +1,33 @@
+{
+  "name": "Intel One Mono",
+  "family": "Intel One Mono",
+  "description": "",
+  "author": "Intel Corporation, Frere-Jones Type",
+  "website": "https://github.com/intel/intel-one-mono",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

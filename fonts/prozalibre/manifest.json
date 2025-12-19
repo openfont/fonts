@@ -1,0 +1,32 @@
+{
+  "name": "Proza Libre",
+  "family": "Proza Libre",
+  "description": "Proza Libre is the libre version of the retail Proza type family, by Bureau Roffa. It is made to render exceptionally well on screens across different operating systems, especially Windows, using ttfautohint . The Proza Libre project is led by Jasper de Waard, a type designer based in the Netherlands. To contribute, see github.com/jasperdewaard/Proza-Libre",
+  "author": "Jasper de Waard",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

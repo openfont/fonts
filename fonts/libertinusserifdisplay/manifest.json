@@ -1,0 +1,26 @@
+{
+  "name": "Libertinus Serif Display",
+  "family": "Libertinus Serif Display",
+  "description": "",
+  "author": "Philipp H. Poll",
+  "website": "https://github.com/googlefonts/libertinus",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

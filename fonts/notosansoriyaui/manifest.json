@@ -1,0 +1,25 @@
+{
+  "name": "Noto Sans Oriya UI",
+  "family": "Noto Sans Oriya UI",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Oriya UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic Odia (Oriya) script. It has 513 glyphs.",
+  "author": "Google",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "or"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

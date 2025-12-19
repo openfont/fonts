@@ -1,0 +1,22 @@
+{
+  "name": "Short Stack",
+  "family": "Short Stack",
+  "description": "Foundry: Sorkin Type Co Short Stack is a low contrast semi-geometric typeface inspired by childish written letters. Short Stack is sturdy, and clear but also whimsical and fun. Short Stack works well from medium text sizes to larger display sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "James Grieshaber",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

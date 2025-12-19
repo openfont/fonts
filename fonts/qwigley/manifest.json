@@ -1,0 +1,24 @@
+{
+  "name": "Qwigley",
+  "family": "Qwigley",
+  "description": "Qwigley is both beautiful and contemporary with a few untraditional forms that add to it&apos;s modern look. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/qwigley .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/qwigley",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

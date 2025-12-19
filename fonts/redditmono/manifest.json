@@ -1,0 +1,24 @@
+{
+  "name": "Reddit Mono",
+  "family": "Reddit Mono",
+  "description": "Reddit Mono is a humanist sans-serif designed for Reddit. Reddit Mono is complemented by Reddit Sans and Reddit Sans Condensed. To contribute to this project, see github.com/reddit/redditsans",
+  "author": "Stephen Hutchings, OrangeRed",
+  "website": "https://github.com/reddit/redditsans",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

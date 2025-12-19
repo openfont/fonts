@@ -1,0 +1,24 @@
+{
+  "name": "Inspiration",
+  "family": "Inspiration",
+  "description": "Have a party with Inspiration. A fun, script font with a less-than-serious bounce. You may have seen the use of Inspiration in the logo for Michaels craft stores. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/inspiration .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/inspiration",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

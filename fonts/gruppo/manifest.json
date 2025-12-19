@@ -1,0 +1,23 @@
+{
+  "name": "Gruppo",
+  "family": "Gruppo",
+  "description": "Gruppo was conceived as a display typeface for style conscious, laid-back branding where 'little is more', or, in Jasper Morrison's words, \"Special is generally less useful than normal\". The Mai 2023 update features a bigger glyphset and some minor aesthetic modifications. To contribute, see github.com/googlefonts/GruppoFont .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/GruppoFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

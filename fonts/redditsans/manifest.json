@@ -1,0 +1,25 @@
+{
+  "name": "Reddit Sans",
+  "family": "Reddit Sans",
+  "description": "Reddit Sans is a humanist sans-serif designed for Reddit. Reddit Sans is complemented by Reddit Sans Condensed and Reddit Mono. To contribute to this project, see github.com/reddit/redditsans",
+  "author": "Stephen Hutchings, OrangeRed",
+  "website": "https://github.com/reddit/redditsans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

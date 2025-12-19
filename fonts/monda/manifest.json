@@ -1,0 +1,24 @@
+{
+  "name": "Monda",
+  "family": "Monda",
+  "description": "The Monda font family is a libre font family. It has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. Monda language support includes now African Latin and full coverage of Vietnamese, additional to all Western, Central, and South-Eastern European languages. To contribute see github.com/googlefonts/mondaFont .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/mondaFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

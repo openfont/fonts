@@ -1,0 +1,23 @@
+{
+  "name": "Doppio One",
+  "family": "Doppio One",
+  "description": "Foundry: Sorkin Type Co Doppio One is a robust low contrast sans serif type with a contemporary feeling. Doppio One will work from small text sizes through large display sizes. Doppio's boxy style makes it especially suitable for screen use. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Szymon Celej",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Julius Sans One",
+  "family": "Julius Sans One",
+  "description": "Julius Sans One is a sans serif typeface family from Chilean type foundry LatinoType . Updated, April 2015: hinting was applied (with ttfautohint) and the non-breaking space glyph was adjusted to be the same width as space.",
+  "author": "Luciano Vergara",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

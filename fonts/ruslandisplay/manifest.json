@@ -1,0 +1,24 @@
+{
+  "name": "Ruslan Display",
+  "family": "Ruslan Display",
+  "description": "The Ruslan Display font is based on a 1970s typeface made by Ukrainian designer Oleg Snarsky, which evokes the ustav and semiustav styles of the 11th–16th centuries, known as the Ruthenian period. This is featured in the signage of Kiev's Teremky metro station, and in a collection of Snarsky's typefaces in the book “Шрифты-алфавиты для рекламных и декоративно-оформительских работ“ published in 1979 and available online . It was digitized and extended with an original Latin complement by Russian designer Denis Masharov, in collaboration with Vladimir Rabdu, in 2011. The name means ‘lion’ . Suitable for lettering, Ruslan Display can also be used to set short texts and supports Latin and Cyrillic.",
+  "author": "Oleg Snarsky, Denis Masharov, Vladimir Rabdu",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

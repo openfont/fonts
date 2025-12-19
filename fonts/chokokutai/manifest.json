@@ -1,0 +1,25 @@
+{
+  "name": "Chokokutai",
+  "family": "Chokokutai",
+  "description": "Chokokutai is a display Japanese font family whose characters have a funky appearance. To contribute to the project, visit github.com/go108go/Chokokutai",
+  "author": "Font Zone 108",
+  "website": "https://github.com/go108go/Chokokutai",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "LXGW WenKai TC",
+  "family": "LXGW WenKai TC",
+  "description": "",
+  "author": "LXGW",
+  "website": "https://github.com/aaronbell/LxgwWenkaiTC",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "zh"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

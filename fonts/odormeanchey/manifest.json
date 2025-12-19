@@ -1,0 +1,23 @@
+{
+  "name": "Odor Mean Chey",
+  "family": "Odor Mean Chey",
+  "description": "Odor Mean Chey is a Khmer font for headlines, titles and subtitles, and even banner designs. To contribute, see github.com/danhhong/OdorMeanChey .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/OdorMeanChey",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ruthie",
+  "family": "Ruthie",
+  "description": "Ruthie is an elegant calligraphic script with ornate capital forms. To contribute, see github.com/googlefonts/ruthie .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/ruthie",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

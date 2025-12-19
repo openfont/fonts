@@ -1,0 +1,24 @@
+{
+  "name": "Baskervville",
+  "family": "Baskervville",
+  "description": "",
+  "author": "ANRT",
+  "website": "https://github.com/anrt-type/ANRT-Baskervville",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

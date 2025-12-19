@@ -1,0 +1,24 @@
+{
+  "name": "Sniglet",
+  "family": "Sniglet",
+  "description": "A rounded display face that’s great for headlines. Updated September 2013: Originally designed in 2008 by Haley Fiege in Extra-bold. In 2013 Brenda Gallo and Pablo Impallari added 42 new glyphs, kerning, and a whole new Regular weight. To contribute to the project contact Pablo Impallari ( impallari@gmail.com )",
+  "author": "Multiple Designers",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "ExtraBold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

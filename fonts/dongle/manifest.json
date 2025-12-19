@@ -1,0 +1,27 @@
+{
+  "name": "Dongle",
+  "family": "Dongle",
+  "description": "Dongle(동글) is a rounded sans-serif typeface for display. It is a modular Hangeul with the de-square frame, creating a playful and rhythmic movement. The name, Dongle(동글) comes from a Korean onomatopoeia, meaning 'rounded or curved shape(with adorable impression)’. To contribute to the project, visit https://github.com/yangheeryu/Dongle",
+  "author": "Yanghee Ryu",
+  "website": "https://github.com/yangheeryu/Dongle",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

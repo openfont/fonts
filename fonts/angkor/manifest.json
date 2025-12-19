@@ -1,0 +1,23 @@
+{
+  "name": "Angkor",
+  "family": "Angkor",
+  "description": "Angkor is a Khmer font for headlines and even banner designs. To contribute, see github.com/danhhong/Angkor .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Angkor",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Gochi Hand",
+  "family": "Gochi Hand",
+  "description": "Gochi Hand is a typographic interpretation of the handwriting of a teenager. The style is fresh, not like the letters made by a calligrapher, but those of an ordinary person. The text line is spontaneous but solid and consistent, expressive and works well on screen, even in small sizes. The glyphs were carefully designed with a good curve quality that makes it able to look good when printed too. Designed by Juan Pablo del Peral for Huerta Tipográfica . To contribute, see github.com/huertatipografica/gochi-hand .",
+  "author": "Huerta Tipográfica",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

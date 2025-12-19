@@ -1,0 +1,24 @@
+{
+  "name": "Jaro",
+  "family": "Jaro",
+  "description": "",
+  "author": "Agyei Archer, Céline Hurka, Mirko Velimirović",
+  "website": "https://github.com/agyeiarcher/Jaro",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

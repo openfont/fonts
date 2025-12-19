@@ -1,0 +1,23 @@
+{
+  "name": "Butterfly Kids",
+  "family": "Butterfly Kids",
+  "description": "Cute and flirty, Butterfly Kids flits about spreading cheer! Be fun. Be cute. Be happy!",
+  "author": "Tart Workshop",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

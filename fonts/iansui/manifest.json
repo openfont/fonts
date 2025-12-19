@@ -1,0 +1,25 @@
+{
+  "name": "Iansui",
+  "family": "Iansui",
+  "description": "",
+  "author": "But Ko",
+  "website": "https://github.com/ButTaiwan/iansui",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "yue",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

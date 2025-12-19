@@ -1,0 +1,34 @@
+{
+  "name": "Chakra Petch",
+  "family": "Chakra Petch",
+  "description": "Chakra Petch is a Thai and Latin family which features Thai's traditional looped letterforms. It's a square sans serif with tapered corners. Due to the design, it works well for both digital and print based media.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/m4rc1e/Chakra-Petch",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

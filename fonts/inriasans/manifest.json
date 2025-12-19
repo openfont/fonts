@@ -1,0 +1,28 @@
+{
+  "name": "Inria Sans",
+  "family": "Inria Sans",
+  "description": "Inria Sans and Inria Serif are the two members of a type family design for the communication of Inria, a national institute dedicated to numeric research. The Institute needed a font showing its values at the crossroad of humanity, technology, excellence and creativity. Black[Foundry] created a humanist typeface with a unapologetically contemporary design as the Sans-Serif part and a more rational drawing for the Serif. Both members come in 3 weights with matching Italics. To contribute, see github.com/BlackFoundryCom/InriaFonts .",
+  "author": "Grégori Vincens, Jérémie Hornus",
+  "website": "https://github.com/BlackFoundryCom/InriaFonts",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

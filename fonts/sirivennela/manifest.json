@@ -1,0 +1,23 @@
+{
+  "name": "Sirivennela",
+  "family": "Sirivennela",
+  "description": "",
+  "author": "Appaji Ambarisha Darbha",
+  "website": "https://github.com/appajid/Sirivennela",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "te"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

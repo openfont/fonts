@@ -1,0 +1,27 @@
+{
+  "name": "Kaisei Opti",
+  "family": "Kaisei Opti",
+  "description": "Kaisei Opti is a modern style Japanese typeface. When typesetted, it gives a cheerful and breezy impression. To contribute to the project, visit https://github.com/FontKai-Kaisei/Kaisei",
+  "author": "Font-Kai",
+  "website": "https://github.com/FontKai-Kaisei/Kaisei",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "Medium",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Creepster",
+  "family": "Creepster",
+  "description": "Creepster is a fright-filled font, perfect for all of your grisly graphic needs!",
+  "author": "Sideshow",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

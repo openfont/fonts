@@ -1,0 +1,23 @@
+{
+  "name": "Text Me One",
+  "family": "Text Me One",
+  "description": "Text Me One is a monolinear font that plays with the shapes of open counters and un-connecting lines. A relatively large x-height and prominent in-strokes and out-strokes aid legibility. Its flavour is playful, with a hint of pop, and is ideal for large format lettering or continuous body text. To contribute to the project contact Julia Petretta .",
+  "author": "Julia Petretta",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

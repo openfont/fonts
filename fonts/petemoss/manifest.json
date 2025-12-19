@@ -1,0 +1,24 @@
+{
+  "name": "Petemoss",
+  "family": "Petemoss",
+  "description": "Petemoss is a semi-calligraphic brush script. It is inspired by the forms created using a Pentel™ color brush. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/petemoss .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/petemoss",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

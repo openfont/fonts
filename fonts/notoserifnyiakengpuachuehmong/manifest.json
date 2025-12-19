@@ -1,0 +1,20 @@
+{
+  "name": "Noto Serif Nyiakeng Puachue Hmong",
+  "family": "Noto Serif Nyiakeng Puachue Hmong",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Nyiakeng Puachue Hmong is a modulated (“serif”) design for texts in the Nyiakeng Puachue Hmong script. It has multiple weights and 76 glyphs.",
+  "author": "Google",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Host Grotesk",
+  "family": "Host Grotesk",
+  "description": "",
+  "author": "Element Type, Doğukan Karapınar, İbrahim Kaçtıoğlu",
+  "website": "https://github.com/Element-Type/HostGrotesk",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

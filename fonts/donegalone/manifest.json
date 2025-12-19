@@ -1,0 +1,23 @@
+{
+  "name": "Donegal One",
+  "family": "Donegal One",
+  "description": "Foundry: Sorkin Type Co Donegal One is a text typeface designed to be highly legible and comfortable when reading on screen. Donegal's utility and personality consistently shows from small text sizes to display. Donegal uses the cut interior curve associated with W.A. Dwiggins. This feature is one of many that contribute to Donegal's distinctive and pleasing character. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Gary Lonergan",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Chango",
+  "family": "Chango",
+  "description": "Chango is a display face based on letters drawn by Mexican illustrator Ernesto “Chango” García Cabral. It’s big and heavy, ideal for head-line body sizes with a humorous touch.",
+  "author": "Fontstage",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

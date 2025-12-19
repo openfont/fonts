@@ -1,0 +1,22 @@
+{
+  "name": "Carme",
+  "family": "Carme",
+  "description": "Carme (Version 1.0) is a clean sans-serif font, specially designed for texts. It contains 206 glyphs and it was given visual metrics and kerning. The bold version is about to be released.",
+  "author": "Rubén Prol",
+  "website": "https://github.com/librefonts/carme",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Libertinus Serif",
+  "family": "Libertinus Serif",
+  "description": "",
+  "author": "Philipp H. Poll",
+  "website": "https://github.com/googlefonts/libertinus",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "he",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

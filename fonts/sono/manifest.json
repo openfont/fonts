@@ -1,0 +1,24 @@
+{
+  "name": "Sono",
+  "family": "Sono",
+  "description": "Sono is a soft monospace (or proportional!) variable font. It has seven weights: ExtraLight through ExtraBold. The default style is fixed-width (and obviously not kerned), but thanks to the \"mono\" axis, you can add kerning and make the design proportional. To contribute, see github.com/sursly/sono .",
+  "author": "Tyler Finck",
+  "website": "https://github.com/sursly/sono",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

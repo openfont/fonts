@@ -1,0 +1,25 @@
+{
+  "name": "Pangolin",
+  "family": "Pangolin",
+  "description": "Pangolin was designed for the Google Valentine's Day 2017 Doodle, Pangolin Love . A pangolin is an endangered species native to Asia and Africa. The font is a sans serif handwriting style. It supports many languages that use the Latin and Cyrillic scripts.",
+  "author": "Kevin Burke",
+  "website": "https://github.com/googlefonts/pangolin",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

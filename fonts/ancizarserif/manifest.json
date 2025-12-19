@@ -1,0 +1,25 @@
+{
+  "name": "Ancizar Serif",
+  "family": "Ancizar Serif",
+  "description": "",
+  "author": "Universidad Nacional de Colombia (UNAL), César Puertas, Viviana Monsalve, Julián Moncada",
+  "website": "https://github.com/UNAL-OMD/UNAL-Ancizar",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

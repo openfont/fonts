@@ -1,0 +1,27 @@
+{
+  "name": "Rubik",
+  "family": "Rubik",
+  "description": "Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert and Sebastian Fischer at Hubert &amp; Fischer as part of the Chrome Cube Lab project. Rubik is a 5 weight family with Roman and Italic styles, that accompanies Rubik Mono One , a monospaced variation of the Black roman design. Meir Sadan redesigned the Hebrew component in 2015. Alexei Vanyashin redesigned the Cyrillic component in 2016. To contribute, see github.com/googlefonts/Rubik .",
+  "author": "Hubert and Fischer, Meir Sadan, Cyreal, Daniel Grumer, Omaima Dajani",
+  "website": "https://github.com/googlefonts/rubik",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "he",
+    "ru"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

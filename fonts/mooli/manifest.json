@@ -1,0 +1,23 @@
+{
+  "name": "Mooli",
+  "family": "Mooli",
+  "description": "Mooli is a Sans Serif font designed for young readers. Mooli is derived from the Mulish font family. It has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. To contribute, please see github.com/googlefonts/mooliFont .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/mooliFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

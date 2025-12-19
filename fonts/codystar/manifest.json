@@ -1,0 +1,24 @@
+{
+  "name": "Codystar",
+  "family": "Codystar",
+  "description": "As you stroll down Manhattan streets and through Times Square, look all around you at the sizzling lights! Sparkling. Brilliant. Codystar. Designed by Crystal Kluge of Neapolitan (a DBA of Font Diner, Inc.) To contribute to the project contact Font Diner .",
+  "author": "Neapolitan",
+  "website": "https://github.com/librefonts/codystar",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

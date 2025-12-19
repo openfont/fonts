@@ -1,0 +1,24 @@
+{
+  "name": "BhuTuka Expanded One",
+  "family": "BhuTuka Expanded One",
+  "description": "BhuTuka Expanded One is a Gurmukhi companion to Aoife Mooney’s BioRhyme Expanded Light typeface. To contribute, see github.com/erinmclaughlin/BhuTuka-Extended-One .",
+  "author": "Erin McLaughlin",
+  "website": "https://github.com/erinmclaughlin/BhuTuka-Extended-One",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "pa"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Momo Trust Sans",
+  "family": "Momo Trust Sans",
+  "description": "",
+  "author": "Type Associates",
+  "website": "https://github.com/typeassociates/MomoTrustSans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Rufina",
+  "family": "Rufina",
+  "description": "Rufina combines features of several typographic styles with Bodoni forms found in the calligraphy of flexible tip pens. High contrast enables it to work well in text and headlines. To contribute to the project contact Martin Sommaruga .",
+  "author": "Martin Sommaruga",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

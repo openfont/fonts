@@ -1,0 +1,27 @@
+{
+  "name": "Kedebideri",
+  "family": "Kedebideri",
+  "description": "",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-kedebideri",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "Medium",
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

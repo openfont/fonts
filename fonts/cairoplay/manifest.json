@@ -1,0 +1,24 @@
+{
+  "name": "Cairo Play",
+  "family": "Cairo Play",
+  "description": "Cairo Play is a color font version of Cairo which features colored marks. This font uses the COLRv0 and CPAL tables. Please visit the gf-guide color page to learn more about Color Fonts technology. To contribute, see github.com/Gue3bara/Cairo .",
+  "author": "Mohamed Gaber, Accademia di Belle Arti di Urbino",
+  "website": "https://github.com/Gue3bara/Cairo",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

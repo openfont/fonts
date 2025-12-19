@@ -1,0 +1,29 @@
+{
+  "name": "LXGW WenKai Mono TC",
+  "family": "LXGW WenKai Mono TC",
+  "description": "",
+  "author": "LXGW",
+  "website": "https://github.com/aaronbell/LxgwWenkaiTC",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "zh"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

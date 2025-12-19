@@ -1,0 +1,23 @@
+{
+  "name": "Phetsarath",
+  "family": "Phetsarath",
+  "description": "Phetsarath is a font for the Lao language, used in the Lao People's Democratic Republic. It was commissioned by the Ministry of Posts and Telecommunications of the national government.",
+  "author": "Danh Hong",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "lo"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

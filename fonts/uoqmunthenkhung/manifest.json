@@ -1,0 +1,24 @@
+{
+  "name": "UoqMunThenKhung",
+  "family": "UoqMunThenKhung",
+  "description": "",
+  "author": "Moonlit Owen",
+  "website": "https://github.com/MoonlitOwen/ThenKhung/",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ru",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

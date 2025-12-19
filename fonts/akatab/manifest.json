@@ -1,0 +1,28 @@
+{
+  "name": "Akatab",
+  "family": "Akatab",
+  "description": "Akatab is a Unicode font for rendering Tifinagh characters in the Tamahaq, Tamashek and Tawallamat languages. This font uses state-of-the-art OpenType font technology to provide accurate typography including the formation of bi-consonant ligatures. Variations of characters are included in the font to meet personal and regional preferences. For more information about supported Unicode ranges and languages, smart font features and how to use them, please see the documentation in the documentation folder. To contribute, see github.com/silnrsi/font-akatab .",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-akatab",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "Medium",
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

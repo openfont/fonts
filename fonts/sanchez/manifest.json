@@ -1,0 +1,24 @@
+{
+  "name": "Sanchez",
+  "family": "Sanchez",
+  "description": "Sanchez is a slab serif typeface family from Chilean type foundry LatinoType .",
+  "author": "Daniel Hernandez",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

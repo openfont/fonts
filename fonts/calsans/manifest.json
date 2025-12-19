@@ -1,0 +1,24 @@
+{
+  "name": "Cal Sans",
+  "family": "Cal Sans",
+  "description": "",
+  "author": "Mark Davis, Cal.com Inc.",
+  "website": "https://github.com/calcom/font",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Noto Serif Dogra",
+  "family": "Noto Serif Dogra",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Dogra is a modulated (“serif”) design for texts in the historical Indic Dogra script. It has 143 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/dogra",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

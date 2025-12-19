@@ -1,0 +1,23 @@
+{
+  "name": "Nokora",
+  "family": "Nokora",
+  "description": "Nokora is a Khmer font for body text, that pairs well with Latin sans serif fonts. To contribute, see github.com/danhhong/Nokora .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Nokora",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

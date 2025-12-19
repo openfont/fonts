@@ -1,0 +1,24 @@
+{
+  "name": "Gajraj One",
+  "family": "Gajraj One",
+  "description": "Gajraj (the king of elephants) is a Latin display typeface with Devanagari language support, designed for use in large hoardings, signage, and print materials for branding and advertising. It is a single variant display typeface, created as the designer's first attempt at designing in the Devanagari script. To contribute, see github.com/xconsau/GajrajOne .",
+  "author": "Saurabh Sharma",
+  "website": "https://github.com/xconsau/GajrajOne",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

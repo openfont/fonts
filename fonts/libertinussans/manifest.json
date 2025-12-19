@@ -1,0 +1,28 @@
+{
+  "name": "Libertinus Sans",
+  "family": "Libertinus Sans",
+  "description": "",
+  "author": "Philipp H. Poll",
+  "website": "https://github.com/googlefonts/libertinus",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

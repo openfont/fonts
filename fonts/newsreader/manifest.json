@@ -1,0 +1,25 @@
+{
+  "name": "Newsreader",
+  "family": "Newsreader",
+  "description": "NewsReader is an original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments. To contribute, please see github.com/productiontype/Newsreader .",
+  "author": "Production Type",
+  "website": "https://github.com/productiontype/NewsReader",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

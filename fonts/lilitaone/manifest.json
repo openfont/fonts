@@ -1,0 +1,23 @@
+{
+  "name": "Lilita One",
+  "family": "Lilita One",
+  "description": "Lilita One is a display typeface with a fat look, ideal for headlines and short texts. With a slightly condensed structure and some eye-catching details, it adds personal and soft looks to any page.",
+  "author": "Juan Montoreano",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

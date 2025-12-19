@@ -1,0 +1,25 @@
+{
+  "name": "WindSong",
+  "family": "WindSong",
+  "description": "WindSong is a beautiful elongated script with multiple stylistic sets that gives a powerful solution to the design needs of the graphic design professional. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/windsong .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/windsong",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Medium",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

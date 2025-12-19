@@ -1,0 +1,24 @@
+{
+  "name": "Tenor Sans",
+  "family": "Tenor Sans",
+  "description": "Tenor Sans is a humanist sans-serif typeface designed by Denis Masharov. Intended for the setting of body text, it can also be applied to headlines. Optimized for print and web, it has excellent legibility characteristics in its letterforms. It contains an extended Latin and extended Cyrillic alphabets, Western and Central European, Cyrillic, Turkish, Baltic, Icelandic and Celtic.",
+  "author": "Denis Masharov",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

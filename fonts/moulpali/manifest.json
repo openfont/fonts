@@ -1,0 +1,23 @@
+{
+  "name": "Moulpali",
+  "family": "Moulpali",
+  "description": "Moulpali is a typeface for Khmer body text, the design is similar to some Khmer metal types popular in the 1960s. To contribute, see github.com/danhhong/Moulpali .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Moulpali",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

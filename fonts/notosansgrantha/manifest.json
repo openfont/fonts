@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Grantha",
+  "family": "Noto Sans Grantha",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Grantha is an unmodulated (“sans serif”) design for texts in the Indic Grantha script. It has 478 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/grantha",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

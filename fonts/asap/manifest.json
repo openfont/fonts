@@ -1,0 +1,25 @@
+{
+  "name": "Asap",
+  "family": "Asap",
+  "description": "Asap (\"as soon as possible\") is a contemporary sans-serif family with subtle rounded corners. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap has been upgraded to a variable font in 2021, and in October 2022, this variable is completed by a width axis and a larger scope of weight. Axes weight now go from Thin to Black and width from Condensed to Expanded. Asap is based on Ancha (Pablo Cosgaya, Hector Gatti). It is designed by Pablo Cosgaya and Omnibus-Type Team, with the collaboration of Andrés Torresi. To contribute, see github.com/Omnibus-Type/Asap .",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Asap",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

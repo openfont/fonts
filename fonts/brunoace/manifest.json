@@ -1,0 +1,23 @@
+{
+  "name": "Bruno Ace",
+  "family": "Bruno Ace",
+  "description": "Bruno Ace draws inspiration from modern automotive logos. This techno geometric sans has a wide stance with a tall x-height for a strong look and appeal. Both a normal case and small caps font exists . To contribute, see github.com/googlefonts/Bruno-ace .",
+  "author": "Astigmatic",
+  "website": "https://github.com/googlefonts/Bruno-ace",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

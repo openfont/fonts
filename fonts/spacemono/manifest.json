@@ -1,0 +1,27 @@
+{
+  "name": "Space Mono",
+  "family": "Space Mono",
+  "description": "",
+  "author": "Colophon Foundry",
+  "website": "https://github.com/googlefonts/spacemono",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

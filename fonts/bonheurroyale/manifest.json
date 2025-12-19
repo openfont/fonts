@@ -1,0 +1,24 @@
+{
+  "name": "Bonheur Royale",
+  "family": "Bonheur Royale",
+  "description": "It's casual and contemporary. BonheurRoyale has the look of a calligraphic hand with a slightly brush feel. The contrast of this and thin strokes gives this clean style a legible quality. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/bonheur-royale .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/bonheur-royale",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

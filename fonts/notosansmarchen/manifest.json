@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Marchen",
+  "family": "Noto Sans Marchen",
+  "description": "",
+  "author": "Google",
+  "website": "https://github.com/notofonts/marchen",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

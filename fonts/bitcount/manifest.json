@@ -1,0 +1,23 @@
+{
+  "name": "Bitcount",
+  "family": "Bitcount",
+  "description": "",
+  "author": "Petr van Blokland",
+  "website": "https://github.com/petrvanblokland/TYPETR-Bitcount",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

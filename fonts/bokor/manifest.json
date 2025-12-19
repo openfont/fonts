@@ -1,0 +1,23 @@
+{
+  "name": "Bokor",
+  "family": "Bokor",
+  "description": "Bokor is a display Khmer font, suitable for headlines, titles, subtitles, and even banner designs. To contribute, see github.com/danhhong/Bokor .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Bokor",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

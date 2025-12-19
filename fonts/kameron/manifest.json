@@ -1,0 +1,23 @@
+{
+  "name": "Kameron",
+  "family": "Kameron",
+  "description": "Kameron is a reworking and fusing of several classic Slab Serif and Egyptian type forms from the early to mid Twentieth Century. The September 2023 update features a bigger glyphset, some minor aesthetic modifications and a variable replacement. To contribute, see github.com/googlefonts/kameronFont .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/kameronFont",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

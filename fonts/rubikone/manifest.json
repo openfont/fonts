@@ -1,0 +1,24 @@
+{
+  "name": "Rubik One",
+  "family": "Rubik One",
+  "description": "Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert and Sebastian Fischer at Hubert &amp; Fischer as part of the Chrome Cube Lab project. Rubik One is the initial version of the Black roman style in the Rubik family, which has 5 weights. It is paired with Rubik Mono One , a monospaced variation of the design.",
+  "author": "Hubert and Fischer",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

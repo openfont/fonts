@@ -1,0 +1,23 @@
+{
+  "name": "Gveret Levin",
+  "family": "Gveret Levin",
+  "description": "",
+  "author": "AlefAlefAlef",
+  "website": "https://github.com/AlefAlefAlef/gveret-levin",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "he"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

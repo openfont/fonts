@@ -1,0 +1,23 @@
+{
+  "name": "Edu AU VIC WA NT Arrows",
+  "family": "Edu AU VIC WA NT Arrows",
+  "description": "The AU School Handwriting Fonts are an English language, OpenType, variable typeface family designed specifically to meet Australian Education standards. While weights, widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. This font represents the forms used in Victoria, Western Australia and the Northern Territory. To contribute, see github.com/SorkinType/VICWANTSchoolhandAustralia .",
+  "author": "Tina Anderson, Corey Anderson",
+  "website": "https://github.com/SorkinType/VICWANTSchoolhandAustralia",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

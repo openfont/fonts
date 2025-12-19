@@ -1,0 +1,26 @@
+{
+  "name": "Comic Relief",
+  "family": "Comic Relief",
+  "description": "Comic Relief is a typeface designed to be metrically equivalent to the popular Comic Sans MS. Comic Relief can be used in place of Comic Sans MS without having to move, resize, or reset any part of the copy. Perfect for missing cat posters and all of your WordArt needs! To contribute, see github.com/loudifier/Comic-Relief .",
+  "author": "Jeff Davis",
+  "website": "https://github.com/loudifier/Comic-Relief",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

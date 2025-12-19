@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Vithkuqi",
+  "family": "Noto Sans Vithkuqi",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Vithkuqi is a design for the historical European Vithkuqi script. It has multiple weights, and has 103 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/vithkuqi",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Chiron GoRound TC",
+  "family": "Chiron GoRound TC",
+  "description": "",
+  "author": "Tamcy",
+  "website": "https://github.com/chiron-fonts/chiron-go-round-tc",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "yue",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

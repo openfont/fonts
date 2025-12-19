@@ -1,0 +1,24 @@
+{
+  "name": "Azeret Mono",
+  "family": "Azeret Mono",
+  "description": "Azeret Mono is a monospaced typeface with a mono-linear character. The story of the typeface began with a draft that was driven by an exploration of OCR fonts, past and futuristic operating systems, various interfaces and the nineties. The final result is more based on a desire to achieve an appearance of the typeface that could serve in operating systems. Thus the overall character is a conjunction of everything described with details that evoke a specific personality. Azeret is designed by Martin Vácha and Daniel Quisek. To contribute, see github.com/displaay/Azeret .",
+  "author": "Displaay, Martin Vácha",
+  "website": "https://github.com/displaay/Azeret",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

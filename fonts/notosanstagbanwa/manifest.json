@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Tagbanwa",
+  "family": "Noto Sans Tagbanwa",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Tagbanwa is an unmodulated (“sans serif”) design for texts in the Southeast Asian Tagbanwa script. It has 29 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/tagbanwa",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

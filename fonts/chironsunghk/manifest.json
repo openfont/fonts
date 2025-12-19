@@ -1,0 +1,29 @@
+{
+  "name": "Chiron Sung HK",
+  "family": "Chiron Sung HK",
+  "description": "",
+  "author": "Tamcy",
+  "website": "https://github.com/chiron-fonts/chiron-sung-hk",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "yue",
+    "zh"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

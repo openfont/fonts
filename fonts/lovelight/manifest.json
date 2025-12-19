@@ -1,0 +1,24 @@
+{
+  "name": "Love Light",
+  "family": "Love Light",
+  "description": "Adopted from an original hand lettered work, Love Light is an adaptation of another font. Its heart embellishments add a bit of romantic fantasy to this beautiful calligraphic script. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/love-light .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/love-light",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

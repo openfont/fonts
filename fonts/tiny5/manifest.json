@@ -1,0 +1,25 @@
+{
+  "name": "Tiny5",
+  "family": "Tiny5",
+  "description": "",
+  "author": "Stefan Schmidt",
+  "website": "https://github.com/Gissio/font_tiny5",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

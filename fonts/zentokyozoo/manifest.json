@@ -1,0 +1,23 @@
+{
+  "name": "Zen Tokyo Zoo",
+  "family": "Zen Tokyo Zoo",
+  "description": "Zen Loop Family is one of three Latin fonts designed by Yoshimichi Ohira, as part of the Zen Fonts collection. Tokyo Zoo was originally designed for an animal exhibition. The stripes suggest zoo cages but overall it’s a fun and stylish design. To contribute, see github.com/googlefonts/zen-tokyo-zoo .",
+  "author": "Yoshimichi Ohira",
+  "website": "https://github.com/googlefonts/zen-tokyo-zoo",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

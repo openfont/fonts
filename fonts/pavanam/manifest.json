@@ -1,0 +1,24 @@
+{
+  "name": "Pavanam",
+  "family": "Pavanam",
+  "description": "Pavanam is a Tamil and Latin typeface designed with a focus on greater legibility in smaller sizes for both screen and print media. The Latin design is derived from Vernon Adam's Pontano Sans ; it has been slightly modified to match with the Tamil typefaces's proportions and vertical metrics. The word Pavanam means wind in Tamil. The Pavanam project is led by Tharique Azeez, a type designer based in Sri Lanka. To contribute, see github.com/enathu/pavanam",
+  "author": "Tharique Azeez",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ta"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

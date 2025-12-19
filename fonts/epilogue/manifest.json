@@ -1,0 +1,25 @@
+{
+  "name": "Epilogue",
+  "family": "Epilogue",
+  "description": "Epilogue is a sans serif variable font with a weight axis. 9 weights, upright and italic. It supports a wide range of languages in the latin script scope. The Epilogue project is led by Tyler Finck — type designer running Etcetera Type Co in Ithaca, New-York, USA. To contribute, see github.com/Etcetera-Type-Co/Epilogue",
+  "author": "Tyler Finck, ETC",
+  "website": "https://github.com/Etcetera-Type-Co/Epilogue",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

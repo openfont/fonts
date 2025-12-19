@@ -1,0 +1,25 @@
+{
+  "name": "Tai Heritage Pro",
+  "family": "Tai Heritage Pro",
+  "description": "Tai Heritage Pro is an open source font designed to reflect the traditional hand-written style of the Tai Viet script. The font is Unicode-encoded, based on The Unicode Standard version 5.2 or later, and is available in regular and bold weights, with both OpenType and Graphite rendering. Learn more at software.sil.org/taiheritage . To contribute, see github.com/silnrsi/font-taiheritagepro .",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-taiheritagepro",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

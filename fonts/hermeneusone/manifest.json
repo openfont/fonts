@@ -1,0 +1,23 @@
+{
+  "name": "Hermeneus One",
+  "family": "Hermeneus One",
+  "description": "Hermeneus is a grecian style font, inspired by the works of Jim Parkinson and Ortiz Lopez. It condensation lets you put more characters into a line of text giving your paragraphs more efficiency. It is intended to be read at small size text, but also works on large headers and titles.",
+  "author": "Impallari Type",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Young Serif",
+  "family": "Young Serif",
+  "description": "Young Serif is a heavy weight old style serif typeface, taking inspiration from Plantin Infant or ITC Italian Old Style. The lowercase b and f feature rounded curves, adding a tender and generous quality to this font. To contribute, please see github.com/noirblancrouge/YoungSerif .",
+  "author": "Bastien Sozeau",
+  "website": "https://github.com/noirblancrouge/YoungSerif",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

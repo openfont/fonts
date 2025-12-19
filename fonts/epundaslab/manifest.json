@@ -1,0 +1,24 @@
+{
+  "name": "Epunda Slab",
+  "family": "Epunda Slab",
+  "description": "",
+  "author": "Typofactur",
+  "website": "https://github.com/typofactur/epundaslab",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

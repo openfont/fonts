@@ -1,0 +1,23 @@
+{
+  "name": "Emblema One",
+  "family": "Emblema One",
+  "description": "Foundry: Sorkin Type Co Emblema One is inspired by UK Victorian era bold italic display type. It breaks from tradition by using a stenciled kind of construction. The stencil style too is atypical and gives the font its distinctive feeling. Emblema One has been made for display purposes and should be used from medium to large sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Riccardo De Franceschi",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matangi",
+  "family": "Matangi",
+  "description": "",
+  "author": "The Graphic Ant",
+  "website": "https://github.com/thegraphicant/Matangi",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

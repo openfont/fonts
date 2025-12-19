@@ -1,0 +1,27 @@
+{
+  "name": "Suwannaphum",
+  "family": "Suwannaphum",
+  "description": "Suwannaphum is a Khmer font for body text, that pairs well with Latin serif fonts. To contribute, see github.com/danhhong/Suwannaphum .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Suwannaphum",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "Light",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

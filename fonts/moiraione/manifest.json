@@ -1,0 +1,24 @@
+{
+  "name": "Moirai One",
+  "family": "Moirai One",
+  "description": "Moirai is a font that experiments with stroke movement with visibility and legibility. It is designed to draw, arrange, and delete strokes of letters to have the minimum strokes and slopes necessary for that letter to be recognized. The shapes surrounding the thick space with thin, round lines give a lovely impression, while also creating a light and lyrical atmosphere. To contribute, please visit github.com/JAMO-TYPEFACE/Moirai .",
+  "author": "Jiyeon Park, JAMO",
+  "website": "https://github.com/JAMO-TYPEFACE/Moirai",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

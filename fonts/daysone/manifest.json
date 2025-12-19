@@ -1,0 +1,23 @@
+{
+  "name": "Days One",
+  "family": "Days One",
+  "description": "Days One is an experiment, which was established in 2008 by three people: Alexander Kalachev, Ivan Gladkikh, Alexei Maslov. Letterforms are wide, and the strokes are thick. This makes Days One good for headlines. It is similar to the more Regular weight font 'Numans' also available in Google Web Fonts.",
+  "author": "Jovanny Lemonad",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

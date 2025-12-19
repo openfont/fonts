@@ -1,0 +1,24 @@
+{
+  "name": "Ruge Boogie",
+  "family": "Ruge Boogie",
+  "description": "Smack a piñata or celebrate Cinco de Mayo with Ruge Boogie. This two-font set is a fun and bouncy style with a joyful flair. Great for scrapbooking, tubes, and other fun stuff. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/ruge-boogie .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/ruge-boogie",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

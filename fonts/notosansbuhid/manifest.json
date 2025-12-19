@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Buhid",
+  "family": "Noto Sans Buhid",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Buhid is an unmodulated (“sans serif”) design for texts in the Southeast Asian Buhid script. It has 44 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/buhid",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

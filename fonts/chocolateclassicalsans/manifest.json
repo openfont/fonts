@@ -1,0 +1,27 @@
+{
+  "name": "Chocolate Classical Sans",
+  "family": "Chocolate Classical Sans",
+  "description": "\"Chocolate Classical Sans\" is an open source font suitable for Traditional Chinese environments. This font uses inherited glyphs, largely adhering to the Inherited Glyphs standard maintained by the I.Font Project , combined with other commonly seen inherited glyphs, to produce a Chinese typeface with glyphs in the traditional style. . This font is produced by Tian Haidong, with modifications from Moonlit Owen. This font is based on the \"Source Han Sans\" font jointly developed by Adobe and Google, incorporating modifications and additional glyphs by using open source contributions from Steve Yuu, GuiWonder and ChiuMing. To contribute, see github.com/MoonlitOwen/ChocolateSans .",
+  "author": "Moonlit Owen",
+  "website": "https://github.com/MoonlitOwen/ChocolateSans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "yue",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

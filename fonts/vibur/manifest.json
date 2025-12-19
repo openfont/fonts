@@ -1,0 +1,22 @@
+{
+  "name": "Vibur",
+  "family": "Vibur",
+  "description": "Vibur is a font based on handwriting. Author of the typeface Johan Kallas set out to create a display font from his own handwriting by making it more pronounced and re-modelling the strokes - making it nicer than his actual handwriting is - that can be used for various typesetting contexts. It comes with numerous ligatures that can be activated with OpenType features. The curvy style is best combined with playful and bright designs.",
+  "author": "Johan Kallas",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

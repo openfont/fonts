@@ -1,0 +1,25 @@
+{
+  "name": "Geom",
+  "family": "Geom",
+  "description": "",
+  "author": "Thanos Poulakidas",
+  "website": "https://github.com/ThanosPoulakidas/Geom",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

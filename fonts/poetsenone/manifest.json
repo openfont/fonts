@@ -1,0 +1,23 @@
+{
+  "name": "Poetsen One",
+  "family": "Poetsen One",
+  "description": "Inspired by the hand painted signs in supermarkets, and the roman structures of the classical alphabets. Poetsen is a display font, but it's not just intended to be used on big 'straight to the eye' titles. Since it has a large x-height, it can be used on short paragraphs in relatively small bodies of text too.",
+  "author": "Rodrigo Fuenzalida, Pablo Impallari",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

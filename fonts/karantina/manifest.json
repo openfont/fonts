@@ -1,0 +1,26 @@
+{
+  "name": "Karantina",
+  "family": "Karantina",
+  "description": "Karantina is a Hebrew and Latin typeface family. It was created by Rony Koch during the long days of COVID-19 quarantine. Karantina is a three weight family that includes - Light, Regular and Bold. To contribute, see github.com/ronykoch/Karantina",
+  "author": "Rony Koch",
+  "website": "https://github.com/ronykoch/Karantina",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "he"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

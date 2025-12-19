@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Khudawadi",
+  "family": "Noto Sans Khudawadi",
+  "description": "",
+  "author": "Google",
+  "website": "https://github.com/notofonts/khudawadi",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

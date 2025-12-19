@@ -1,0 +1,23 @@
+{
+  "name": "Jockey One",
+  "family": "Jockey One",
+  "description": "Jockey One is a new sans serif, designed by TypeTogether - Veronika Burian and José Scaglione.",
+  "author": "TypeTogether",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

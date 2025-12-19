@@ -1,0 +1,23 @@
+{
+  "name": "Snowburst One",
+  "family": "Snowburst One",
+  "description": "Foundry: Sorkin Type Co Snowburst One is a low contrast serifed display typeface inspired by one of Annet Stirling's distinctive styles of lettering. Snowburst One's personality consistently shows in both small and large sizes. Because of the thin stokes this font is best used from medium to large sizes. Despite its surprising forms Snowburst is highly legible. Readers are likely to be both surprised and entertained by its unusual but friendly forms. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Annet Stirling",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

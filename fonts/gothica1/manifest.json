@@ -1,0 +1,35 @@
+{
+  "name": "Gothic A1",
+  "family": "Gothic A1",
+  "description": "Gothic A1 is a Korean and Latin font.",
+  "author": "HanYang I&C Co",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ko",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Medium",
+    "Regular",
+    "SemiBold",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Slackside One",
+  "family": "Slackside One",
+  "description": "Newly designed only for Google Fonts: sophisticated handwritten Japanese font. Slackside means loose end. To contribute to the project, visit github.com/ManiackersDesign/slackside",
+  "author": "Maniackers Design",
+  "website": "https://github.com/ManiackersDesign/slackside",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

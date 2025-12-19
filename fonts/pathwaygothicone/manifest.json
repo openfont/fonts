@@ -1,0 +1,23 @@
+{
+  "name": "Pathway Gothic One",
+  "family": "Pathway Gothic One",
+  "description": "Pathway Gothic One is a narrow grotesque sans typeface, a very popular style in the history of typography. This book weight is the first of many. The March 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/pathway-gothic .",
+  "author": "Eduardo Tunni",
+  "website": "https://github.com/etunni/pathway-gothic",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

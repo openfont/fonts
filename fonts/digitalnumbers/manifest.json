@@ -1,0 +1,22 @@
+{
+  "name": "Digital Numbers",
+  "family": "Digital Numbers",
+  "description": "Digital Numbers is a fixed width font in a cool liquid-crystal display (LCD) style. More information about this font can be found at github.com/s-a/digital-numbers-font",
+  "author": "Stephan Ahlf",
+  "website": "https://github.com/s-a/digital-numbers-font",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

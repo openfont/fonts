@@ -1,0 +1,25 @@
+{
+  "name": "Science Gothic",
+  "family": "Science Gothic",
+  "description": "",
+  "author": "Thomas Phinney, Vassil Kateliev, Brandon Buerkle",
+  "website": "https://github.com/googlefonts/science-gothic",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

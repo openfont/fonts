@@ -1,0 +1,22 @@
+{
+  "name": "Allerta Stencil",
+  "family": "Allerta Stencil",
+  "description": "Allerta is an open source typeface designed for use in signage. Allerta was designed to be easily and quickly read from a distance. Each letter exploits the most unique aspects of that individual letter so that each character can be easily distinguished from any other. Initially published at matt.cc/allerta .",
+  "author": "Matt McInerney",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

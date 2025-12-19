@@ -1,0 +1,23 @@
+{
+  "name": "Galindo",
+  "family": "Galindo",
+  "description": "The Galindo typeface is an inspired spin off light-hearted animated fonts with geometric counters.",
+  "author": "Astigmatic",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

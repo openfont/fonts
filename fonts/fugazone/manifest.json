@@ -1,0 +1,23 @@
+{
+  "name": "Fugaz One",
+  "family": "Fugaz One",
+  "description": "Fugaz One is a sans serif with very geometric features and gestural characteristics, which brings it away from its formal beginnings. Combined with its italic inclination, Fugaz One has become a very dynamic font.",
+  "author": "LatinoType",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

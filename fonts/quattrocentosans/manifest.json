@@ -1,0 +1,26 @@
+{
+  "name": "Quattrocento Sans",
+  "family": "Quattrocento Sans",
+  "description": "Quattrocento Sans is a classic, elegant and sober typeface family. Warm, readable and not intrusive. It's the perfect sans-serif companion for Quattrocento . The wide and open letterforms and large x-height make it very legible for body text at small sizes. All the tiny details that only shows up at bigger sizes make it also great for display use.",
+  "author": "Impallari Type",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

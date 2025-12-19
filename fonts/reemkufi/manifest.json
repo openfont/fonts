@@ -1,0 +1,25 @@
+{
+  "name": "Reem Kufi",
+  "family": "Reem Kufi",
+  "description": "Reem Kufi is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means “a white deer,” and is also the name of Khaled's daughter. To contribute, see github.com/aliftype/reem-kufi",
+  "author": "Khaled Hosny, Santiago Orozco",
+  "website": "https://github.com/aliftype/reem-kufi",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

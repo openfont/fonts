@@ -1,0 +1,25 @@
+{
+  "name": "Fraunces",
+  "family": "Fraunces",
+  "description": "Fraunces is a display, \"Old Style\" soft-serif typeface inspired by the mannerisms of early 20th century typefaces such as Windsor , Souvenir, and the Cooper Series. Fraunces was designed by Phaedra Charles and Flavia Zimbardi, partners at Undercase Type . Fraunces is a Variable Font with four axes: Weight (wght), Optical Size (opsz), Softness (SOFT), and Wonky (WONK). The Softness axis controls the “wetness” or “inkiness” of the typeface. The Wonky axis controls the manual substitution of “wonky” characters, such as the lean of the h, n, and m glyphs in the Roman, and the flagged ball terminals of the b, d, h, k, l, v, and w glyphs of the Italic. To contribute, please see github.com/undercasetype/Fraunces . To learn more, read Wonky, goofy, playful, elegant and a workhorse: Meet a new breed of \"Old Style\" typeface .",
+  "author": "Undercase Type, Phaedra Charles, Flavia Zimbardi",
+  "website": "https://github.com/undercasetype/Fraunces",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

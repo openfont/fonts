@@ -1,0 +1,24 @@
+{
+  "name": "Dhyana",
+  "family": "Dhyana",
+  "description": "Dhyana is a new Lao typeface designed by Vern Adams. For more information, please see the project homepage on GitHub .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/vernnobile/DhyanaFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "lo"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wellfleet",
+  "family": "Wellfleet",
+  "description": "Foundry: Sorkin Type Co Wellfleet is a versatile low-contrast slab serif text typeface with a a bouncy and upbeat feeling. It was inspired by German poster lettering. Despite having display letters as a source of inspiration, Wellfleet is functional in a wide range of sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Riccardo De Franceschi",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

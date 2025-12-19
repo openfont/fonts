@@ -1,0 +1,22 @@
+{
+  "name": "Share Tech",
+  "family": "Share Tech",
+  "description": "Share Tech is a sans serif, based on the Share family. There is also Share Tech Mono .",
+  "author": "Carrois Apostrophe",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

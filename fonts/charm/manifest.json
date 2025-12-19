@@ -1,0 +1,26 @@
+{
+  "name": "Charm",
+  "family": "Charm",
+  "description": "Charm is a handwritten Thai and Latin family. The letterforms were created using a flat tip pen on paper. It works well for Thai religous texts.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/Charm",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

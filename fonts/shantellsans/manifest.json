@@ -1,0 +1,26 @@
+{
+  "name": "Shantell Sans",
+  "family": "Shantell Sans",
+  "description": "",
+  "author": "Shantell Martin, Arrow Type, Anya Danilova",
+  "website": "https://github.com/arrowtype/shantell-sans",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

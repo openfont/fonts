@@ -1,0 +1,24 @@
+{
+  "name": "Aoboshi One",
+  "family": "Aoboshi One",
+  "description": "\"Aoboshi\" is a single-weight serif-style Japanese font inspired by Copperplate Gothic. To contribute to the project, visit github.com/matsuba723/Aoboshi",
+  "author": "Natsumi Matsuba",
+  "website": "https://github.com/matsuba723/Aoboshi",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

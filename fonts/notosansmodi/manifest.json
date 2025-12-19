@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Modi",
+  "family": "Noto Sans Modi",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Modi is an unmodulated (“sans serif”) design for texts in the Indic Modi script. It has 209 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/modi",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

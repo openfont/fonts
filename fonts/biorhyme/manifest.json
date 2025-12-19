@@ -1,0 +1,23 @@
+{
+  "name": "BioRhyme",
+  "family": "BioRhyme",
+  "description": "BioRhyme is a Latin typeface family comprised of two widths, normal and expanded. Previously separated into two distinct families, BioRhyme has been updated in September 2023, and became variable on two axes, offering weights ranging from ExtraLight to ExtraBold. To contribute, see github.com/aoifemooney/makingbiorhyme",
+  "author": "Aoife Mooney",
+  "website": "https://github.com/aoifemooney/makingbiorhyme",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

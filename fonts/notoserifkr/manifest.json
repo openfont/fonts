@@ -1,0 +1,26 @@
+{
+  "name": "Noto Serif KR",
+  "family": "Noto Serif KR",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif KR is a modulated (“serif”) design for the Korean language using Hangul and the Korean Hanja scripts. It also supports Hiragana, Katakana, Latin, Cyrillic and Greek . It has multiple weights.",
+  "author": "Google",
+  "website": "https://www.github.com/notofonts/noto-cjk",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

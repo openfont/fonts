@@ -1,0 +1,23 @@
+{
+  "name": "New Rocker",
+  "family": "New Rocker",
+  "description": "New Rocker is a loud, harsh, screaming font. With Blackletter, Tattoo and Heavy Metal logos as inspiration.",
+  "author": "Impallari Type",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

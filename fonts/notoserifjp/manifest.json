@@ -1,0 +1,26 @@
+{
+  "name": "Noto Serif JP",
+  "family": "Noto Serif JP",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif JP is a modulated (“serif”) design for the Japanese language and other languages used in Japan. It supports Hiragana , Katakana , Kanji , Latin, Cyrillic, Greek and Hangul . It has multiple weights.",
+  "author": "Google",
+  "website": "https://www.github.com/notofonts/noto-cjk",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

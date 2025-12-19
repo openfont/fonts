@@ -1,0 +1,24 @@
+{
+  "name": "Meow Script",
+  "family": "Meow Script",
+  "description": "Meow Script is a monoline font with a number of alternate forms in six stylistic sets. It works eclectically and harmoniously to add a fun, whimsy look to your posters, ads, invitations and similar designs. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/meow-script .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/meow-script",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

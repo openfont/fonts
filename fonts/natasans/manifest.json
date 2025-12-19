@@ -1,0 +1,25 @@
+{
+  "name": "Nata Sans",
+  "family": "Nata Sans",
+  "description": "",
+  "author": "Daniel Uzquiano",
+  "website": "https://github.com/dnlzqn/nata-sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

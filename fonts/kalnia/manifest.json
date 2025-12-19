@@ -1,0 +1,23 @@
+{
+  "name": "Kalnia",
+  "family": "Kalnia",
+  "description": "",
+  "author": "Frida Medrano",
+  "website": "https://github.com/fridamedrano/Kalnia-Typeface",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Paprika",
+  "family": "Paprika",
+  "description": "Paprika will give taste and color to your texts with its clear and friendly gestures. An expressive typeface, it can be used in long texts as it gives readers a pleasant reading experience and is excellent in headlines that also need a natural feeling. To contribute, see github.com/etunni/paprika .",
+  "author": "Eduardo Tunni",
+  "website": "https://github.com/etunni/paprika",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Playball",
+  "family": "Playball",
+  "description": "An athletic look was the inspiration for Playball. Take advantage of the sweeping swashes to give a true sports look. Perfect for baseball banners and the like. Playball comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/play-ball .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/play-ball",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

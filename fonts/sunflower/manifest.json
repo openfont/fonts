@@ -1,0 +1,24 @@
+{
+  "name": "Sunflower",
+  "family": "Sunflower",
+  "description": "Sunflower is a Korean and Latin font",
+  "author": "JIKJISOFT",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Medium"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Poor Story",
+  "family": "Poor Story",
+  "description": "Poor Story is a Korean and Latin font.",
+  "author": "Yoon Design",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

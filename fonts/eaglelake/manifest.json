@@ -1,0 +1,23 @@
+{
+  "name": "Eagle Lake",
+  "family": "Eagle Lake",
+  "description": "The Eagle Lake typeface is a calligraphic lettering style based on the practical Running Book Hand. It has shorter capitals that create a visually taller x-height lending to high legibility and fluidity.",
+  "author": "Astigmatic",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Brygada 1918",
+  "family": "Brygada 1918",
+  "description": "Brygada 1918 is a revival project created for the celebration of the 100 years of independance of the Republic of Poland in 2018, with the support of the \"Independent\" program and the President of the Republic of Poland. The typeface is based on the catalogue entry of the National Type Foundry from 1954, and a set of matrices found at the Book Arts Museum by Janusz Tryzno in 2016. More information is available on the project's website and Google Design . To contribute, see github.com/kosmynkab/Brygada-1918 . To learn more about Brygada, visit: Reviving a forgotten font: Type detectives give life to Brygada (English), Rewitalizacja zapomnianej czcionki: nowe życie Brygady (Polish).",
+  "author": "Capitalics, Mateusz Machalski, Borys Kosmynka, Ania Wieluńska, Przemysław Hoffer",
+  "website": "https://github.com/kosmynkab/Brygada-1918",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

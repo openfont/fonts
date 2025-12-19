@@ -1,0 +1,25 @@
+{
+  "name": "Yuji Boku",
+  "family": "Yuji Boku",
+  "description": "\"Yuji\" is a series of fonts digitizing handwriting by the calligrapher Yuji Kataoka. Yuji Boku is a new and joyful design. It has both simplicity and warmth. Fonts in the Yuji Family: Yuji Mai Yuji Syuku To contribute to the project, visit github.com/Kinutafontfactory/Yuji",
+  "author": "Kinuta Font Factory",
+  "website": "https://github.com/Kinutafontfactory/Yuji",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

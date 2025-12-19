@@ -1,0 +1,28 @@
+{
+  "name": "Thasadith",
+  "family": "Thasadith",
+  "description": "Thasadith is a Thai and Latin family. It's a humanist sans serif with rounded corners. It was originally developed as part of the Srisakdi family.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/Thasadith",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

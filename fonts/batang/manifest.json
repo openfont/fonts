@@ -1,0 +1,26 @@
+{
+  "name": "Batang",
+  "family": "Batang",
+  "description": "Batang is a well-known myeongjo(brush)-style font that first shipped with Windows 95. It was designed for optimal readability and clarity for long-form text use. This version includes proportional Latin characters. For a version with monospace, half-width Latin characters, see BatangChe. To contribute to this project, please visit github.com/googlefonts/batang .",
+  "author": "HanYang I&C Co.",
+  "website": "https://github.com/googlefonts/batang",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ko",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

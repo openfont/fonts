@@ -1,0 +1,24 @@
+{
+  "name": "Gluten",
+  "family": "Gluten",
+  "description": "Gluten is a delicious font! It's also slightly loud, very round, and 100% fun. Gluten is filling, we'll put it that way. Hope you're hungry. To contribute see github.com/Etcetera-Type-Co/Gluten .",
+  "author": "Tyler Finck, ETC",
+  "website": "https://github.com/Etcetera-Type-Co/Gluten",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

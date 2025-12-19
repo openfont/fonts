@@ -1,0 +1,23 @@
+{
+  "name": "Gabarito",
+  "family": "Gabarito",
+  "description": "",
+  "author": "Naipe Foundry, Leandro Assis, Álvaro Franca, Felipe Casaprima",
+  "website": "https://github.com/naipefoundry/gabarito",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mingzat",
+  "family": "Mingzat",
+  "description": "Mingzat is a Unicode font based on Jason Glavy's JG Lepcha custom-encoded font. With his generous permission, SIL International used his design and released the font under the SIL Open Font License (OFL). The name \"Mingzat\" means \"treasure of letters\" in the Lepcha language. Learn more at software.sil.org/mingzat . To contribute, see github.com/silnrsi/font-mingzat .",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-mingzat",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

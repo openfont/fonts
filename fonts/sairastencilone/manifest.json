@@ -1,0 +1,24 @@
+{
+  "name": "Saira Stencil One",
+  "family": "Saira Stencil One",
+  "description": "Saira Stencil is the stencil version of Saira , designed by Héctor Gatti and developed by Omnibus-Type Team. To contribute, see github.com/Omnibus-Type/Saira/tree/master/SairaStencilOne .",
+  "author": "Hector Gatti, Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Saira",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

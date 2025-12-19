@@ -1,0 +1,23 @@
+{
+  "name": "Special Gothic Expanded One",
+  "family": "Special Gothic Expanded One",
+  "description": "",
+  "author": "Alistair McCready",
+  "website": "https://github.com/AlistairMcCready/Special-Gothic",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

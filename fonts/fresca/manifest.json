@@ -1,0 +1,23 @@
+{
+  "name": "Fresca",
+  "family": "Fresca",
+  "description": "A very friendly font for display use with a fresh atmosphere, Fresca gives the text an alternative to comic settings.",
+  "author": "Fontstage",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

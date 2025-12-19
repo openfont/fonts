@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Old Turkic",
+  "family": "Noto Sans Old Turkic",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Old Turkic is an unmodulated (“sans serif”) design for texts in the historical Central Asian Orkhon runic (Old Turkic) script. It has 78 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/old-turkic",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

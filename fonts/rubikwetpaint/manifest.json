@@ -1,0 +1,25 @@
+{
+  "name": "Rubik Wet Paint",
+  "family": "Rubik Wet Paint",
+  "description": "The Generative Fonts is an original, script-generated collection of fonts based on the Google Fonts Rubik by Hubert and Fischer, Meir Sadan and Cyreal. The code used to generate it can be found at github.com/NaN-xyz/Glyph-Filters . Check for more Rubik \"Filtered\" fonts !. To contribute, see github.com/NaN-xyz/Rubik-Filtered .",
+  "author": "NaN, Luke Prowse",
+  "website": "https://github.com/NaN-xyz/Rubik-Filtered",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "he",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

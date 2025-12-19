@@ -1,0 +1,22 @@
+{
+  "name": "Belgrano",
+  "family": "Belgrano",
+  "description": "Belgrano is a slab serif type designed initially for printed newspapers. It has been adapted for use on the web, with coarse terminals and larger counterforms that mean it works well in very small sizes.",
+  "author": "LatinoType",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

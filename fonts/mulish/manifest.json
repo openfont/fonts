@@ -1,0 +1,26 @@
+{
+  "name": "Mulish",
+  "family": "Mulish",
+  "description": "Mulish is a minimalist Sans Serif typeface, designed for both display and text typography. It was initially drawn in 2011 by Vernon Adams and then refined until 2014, adding more weights, support for more Latin languages, tightened the spacing and kerning and made many glyph refinements throughout the family – all based on hundreds of users' feedback. In 2017 the family was updated by Jacques Le Bailly to complete the work started by Vernon after he passed away, in collaboration with his wife Allison, an arist who holds the trademark on the typeface family name. In August 2019, it was updated with a Variable Font \"Weight\" axis. To contribute, see github.com/googlefonts/mulish",
+  "author": "Vernon Adams, Cyreal, Jacques Le Bailly",
+  "website": "https://github.com/googlefonts/mulish",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

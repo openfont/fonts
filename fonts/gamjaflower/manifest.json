@@ -1,0 +1,23 @@
+{
+  "name": "Gamja Flower",
+  "family": "Gamja Flower",
+  "description": "Gamja Flower is a Korean and Latin font.",
+  "author": "YoonDesign Inc",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

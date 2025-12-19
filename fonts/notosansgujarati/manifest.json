@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Gujarati",
+  "family": "Noto Sans Gujarati",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Gujarati is an unmodulated (“sans serif”) design for texts in the Indic Gujarati script. It has 798 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/gujarati",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "gu"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Cabin Condensed",
+  "family": "Cabin Condensed",
+  "description": "This is the condensed set of styles of the Cabin font family . The compete family is available as a variable font, with a Weight range from Regular to Bold, and a Width range from Normal to Condensed.",
+  "author": "Impallari Type",
+  "website": "https://github.com/impallari/Cabin",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Medium",
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

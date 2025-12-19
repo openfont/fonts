@@ -1,0 +1,23 @@
+{
+  "name": "Shojumaru",
+  "family": "Shojumaru",
+  "description": "Shojumaru draws inspiration from a movie poster for a 1957 film titled Sayonara, starring Marlon Brando. It breaks the formula of a chop suey style by mixing chop suey and traditional letterforms to create a powerful and unique letterforms all its own.",
+  "author": "Astigmatic",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

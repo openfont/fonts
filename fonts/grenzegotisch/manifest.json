@@ -1,0 +1,24 @@
+{
+  "name": "Grenze Gotisch",
+  "family": "Grenze Gotisch",
+  "description": "Grenze Gotisch is a Blackletter version of Grenze , which has more dramatic details in certain letters. To contribute, see github.com/Omnibus-Type/Grenze-Gotisch .",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Grenze-Gotisch",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Noto Music",
+  "family": "Noto Music",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Music is a font that contains symbols for the modern, Byzantine and Greek musical notations . It has 579 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/music",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

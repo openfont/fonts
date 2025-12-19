@@ -1,0 +1,23 @@
+{
+  "name": "Raleway Dots",
+  "family": "Raleway Dots",
+  "description": "A dotted version of Raleway , for posters and big headlines. It is a display face and the downloadable font features both old-style and lining numerals, standard and discretionary ligatures, as well as stylistic alternates that are inspired by more geometric sans-serif typefaces than the default which is neo-grotesque. To contribute to the project, visit github.com/impallari/Raleway",
+  "author": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

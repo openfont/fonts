@@ -1,0 +1,23 @@
+{
+  "name": "Vampiro One",
+  "family": "Vampiro One",
+  "description": "Foundry: Sorkin Type Co Vampiro One is a low contrast script font. It was inspired by the 20th century Italian tradition of monoline scripts. Vampiro One is best used for display purposes at medium to large sizes. To contribute to the project contact Eben Sorkin . Updated September 2015: Internal metadata corrected.",
+  "author": "Riccardo De Franceschi",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Aleo",
+  "family": "Aleo",
+  "description": "Aleo is a contemporary typeface designed by Alessio Laiso as the slab serif companion to the Lato font by Łukasz Dziedzic. Aleo has semi-rounded details and a sleek structure, giving it a strong personality while still keeping readability high. The June 2023 update expanded the family from 6 style to 18 and became variable. It offers also a better language support (Pan African and Vietnamese added), and the design and spacing have been improved. To contribute, see github.com/AlessioLaiso/aleo .",
+  "author": "Alessio Laiso",
+  "website": "https://github.com/AlessioLaiso/aleo",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

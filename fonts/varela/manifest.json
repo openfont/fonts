@@ -1,0 +1,24 @@
+{
+  "name": "Varela",
+  "family": "Varela",
+  "description": "Varela is a modern sans-serif font that blends styles of many great typefaces. Its uniqueness stems from vertical cuts on lowercase letters such as \"a, c, e, g, s\" and uppercase letters such as \"C, G, J, S\". Because it is extremely clean and minimalistic in design, it is able to sit well in body text at small sizes, or be used for headlines and menu items. Varela is a great font for anything containing text or content.",
+  "author": "Joe Prince",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Texturina",
+  "family": "Texturina",
+  "description": "Texturina is a highly applicable typeface with the richness of Blackletter, yet maintaining fluidity by combining broken and softened curves. Texturina is designed by Guillermo Torres. To contribute, see github.com/Omnibus-Type/Texturina .",
+  "author": "Guillermo Torres, Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Texturina",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

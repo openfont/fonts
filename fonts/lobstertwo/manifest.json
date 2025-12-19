@@ -1,0 +1,25 @@
+{
+  "name": "Lobster Two",
+  "family": "Lobster Two",
+  "description": "Lobster Two is a family version of the original Lobster .",
+  "author": "Impallari Type",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Noto Serif Myanmar",
+  "family": "Noto Serif Myanmar",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Myanmar is a modulated (“serif”) design for texts in the Southeast Asian Myanmar script. It has 725 glyphs.",
+  "author": "Google",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "my"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Medium",
+    "Regular",
+    "SemiBold",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

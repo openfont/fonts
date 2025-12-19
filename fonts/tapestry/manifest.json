@@ -1,0 +1,24 @@
+{
+  "name": "Tapestry",
+  "family": "Tapestry",
+  "description": "Tapestry is a Roman calligraphic family with a slight rustic and country appearance. Its thick and thin strokes emulate the strokes of a flat nib pen. The capital letters are inspired by Roman serif forms, whilst the extra thin movements in the lowercase letters compliment the capitals and allows Tapestry to dance on the page. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/tapestry .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/tapestry",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

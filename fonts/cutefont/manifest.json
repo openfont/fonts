@@ -1,0 +1,23 @@
+{
+  "name": "Cute Font",
+  "family": "Cute Font",
+  "description": "Cute Font is a Korean and Latin font",
+  "author": "TypoDesign Lab. Inc",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

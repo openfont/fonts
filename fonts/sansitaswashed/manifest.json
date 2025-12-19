@@ -1,0 +1,24 @@
+{
+  "name": "Sansita Swashed",
+  "family": "Sansita Swashed",
+  "description": "An ornate version of Sansita, with curvy uppercase letters, certain alternative lowercase letters and new ligatures. Sansita Swashed is designed by Pablo Cosgaya (Omnibus-Type) and developed by Aldo De Losa. To contribute, please see github.com/Omnibus-Type/Sansita-Swashed .",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/Sansita-Swashed",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

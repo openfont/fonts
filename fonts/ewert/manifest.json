@@ -1,0 +1,23 @@
+{
+  "name": "Ewert",
+  "family": "Ewert",
+  "description": "Ewert is slab serif wood type inspired by and loosely based on the collection of cultural infographic maps by Estonian graphic artist Olev Soans. Ewert has been higly simplified for screen usage yet still includes the characteristic \"ornamental leg\" of the letterform. Ewert was designed by Johan Kallas and Mihkel Virkus.",
+  "author": "Johan Kallas, Mihkel Virkus",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

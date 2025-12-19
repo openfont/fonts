@@ -1,0 +1,24 @@
+{
+  "name": "Indie Flower",
+  "family": "Indie Flower",
+  "description": "This handwriting font feels carefree and open to me with the bubbly, rounded edges. It is easy to read and a bit bolder than some of my other fonts.",
+  "author": "Kimberly Geswein",
+  "website": "https://github.com/googlefonts/indieflower",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

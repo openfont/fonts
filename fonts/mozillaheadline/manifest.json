@@ -1,0 +1,23 @@
+{
+  "name": "Mozilla Headline",
+  "family": "Mozilla Headline",
+  "description": "",
+  "author": "Studio DRAMA",
+  "website": "https://github.com/mozilla/mozilla-headline-type",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

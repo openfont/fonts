@@ -1,0 +1,23 @@
+{
+  "name": "Funnel Display",
+  "family": "Funnel Display",
+  "description": "",
+  "author": "NORD ID, Kristian Möller",
+  "website": "https://github.com/Dicotype/Funnel",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

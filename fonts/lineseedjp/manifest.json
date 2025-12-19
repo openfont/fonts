@@ -1,0 +1,29 @@
+{
+  "name": "LINE Seed JP",
+  "family": "LINE Seed JP",
+  "description": "",
+  "author": "LY Corporation, Fontrix, Fontworks",
+  "website": "https://github.com/line/seed",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "ExtraBold",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

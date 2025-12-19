@@ -1,0 +1,22 @@
+{
+  "name": "Smythe",
+  "family": "Smythe",
+  "description": "Smythe is a reworking and mashing together of various typefaces from the late nineteenth and early twentieth centuries that can be best described as 'Arts and Crafts', or, 'Art Deco'. Smythe also has a touch of Batfink too!",
+  "author": "Vernon Adams",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

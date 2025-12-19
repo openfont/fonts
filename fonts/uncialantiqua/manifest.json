@@ -1,0 +1,22 @@
+{
+  "name": "Uncial Antiqua",
+  "family": "Uncial Antiqua",
+  "description": "Uncial Antiqua is a hybrid typeface which combines the speedier penned styles of Uncial and Half Uncial letterforms together in a formal text representation. Signature letterforms to the Uncial & Half Uncial styles are not sacrificed in this compilation, yet readability is surprisingly maintained when read in context.",
+  "author": "Astigmatic",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sail",
+  "family": "Sail",
+  "description": "Sail is a Didot script for headline, display and poster uses. A fresh air comes to all the glyphs, its windy uppercases are especially suited for display texts and web navigation. Elegant swashes and a clean lowercases also make it suitable for larger paragraphs.",
+  "author": "Miguel Hernandez",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

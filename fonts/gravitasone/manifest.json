@@ -1,0 +1,22 @@
+{
+  "name": "Gravitas One",
+  "family": "Gravitas One",
+  "description": "Foundry: Sorkin Type Co Gravitas One is modeled on the \"UK fat face\" which is a kind of very heavy advertising type created during the industrial revolution in England. The letter forms are characterized by an attention getting and strong contrast between the very heavy vertical shapes and the thin horizontal ones. The contrast of the design means that it will be most useful when set from medium to large sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "author": "Riccardo De Franceschi",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

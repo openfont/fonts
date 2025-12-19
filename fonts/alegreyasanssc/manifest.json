@@ -1,0 +1,39 @@
+{
+  "name": "Alegreya Sans SC",
+  "family": "Alegreya Sans SC",
+  "description": "Alegreya Sans SC is a Small Caps companion family to Alegreya Sans , a humanist sans serif family with a calligraphic feeling that conveys a dynamic and varied rhythm. This gives a pleasant feeling to readers of long texts. The Alegreya type system is a \"super family\", originally intended for literature, and includes sans and serif sibling families. The family follows humanist proportions and principles, and achieves a ludic and harmonious paragraph through elements carefully designed in an atmosphere of diversity. The italics bring a strong emphasis to the roman styles. Designed by Juan Pablo del Peral for Huerta Tipográfica . To contribute, see github.com/huertatipografica/Alegreya-Sans .",
+  "author": "Juan Pablo del Peral, Huerta Tipográfica",
+  "website": "https://github.com/huertatipografica/Alegreya-Sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Black Italic",
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "Thin",
+    "Thin Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

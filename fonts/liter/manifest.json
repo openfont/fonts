@@ -1,0 +1,24 @@
+{
+  "name": "Liter",
+  "family": "Liter",
+  "description": "",
+  "author": "Anton Skugarov, Alexandr Ivanin",
+  "website": "https://github.com/skugiz/liter",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

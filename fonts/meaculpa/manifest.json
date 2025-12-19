@@ -1,0 +1,24 @@
+{
+  "name": "Mea Culpa",
+  "family": "Mea Culpa",
+  "description": "Mea Culpa is a beautiful formal script with flourished capitals. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/mea-culpa .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/mea-culpa",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Dela Gothic One",
+  "family": "Dela Gothic One",
+  "description": "DelaGothic is a flat, very thick Gothic body. Its stability and strength make it ideal for use on posters and packaging. To contribute to the project, visit github.com/syakuzen/DelaGothic",
+  "author": "artakana",
+  "website": "https://github.com/syakuzen/DelaGothic",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ja",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

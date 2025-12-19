@@ -1,0 +1,27 @@
+{
+  "name": "Ruwudu",
+  "family": "Ruwudu",
+  "description": "Ruwudu is intended to provide a libre and open font family for Arabic script languages in West Africa that use the Rubutun Kano style. This font supports the characters known to be used by languages written in this style of Arabic script, but may not have the characters needed for other languages. Smart font routines automatically adjust the shape and position of characters. To contribute, please see github.com/silnrsi/font-ruwudu .",
+  "author": "SIL International",
+  "website": "https://github.com/silnrsi/font-ruwudu",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Medium",
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

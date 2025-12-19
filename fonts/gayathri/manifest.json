@@ -1,0 +1,25 @@
+{
+  "name": "Gayathri",
+  "family": "Gayathri",
+  "description": "A gentle and modern Malayalam display typeface. Available in three weights, Gayathri is best suited for headlines, posters, titles and captions. Unicode compliant and libre licensed. To contribute, see gitlab.com/smc/fonts/gayathri .",
+  "author": "SMC, Binoy Dominic",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ml"
+  ],
+  "styles": [
+    "Bold",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

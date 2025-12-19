@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Chorasmian",
+  "family": "Noto Sans Chorasmian",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Chorasmian is a design for the historical Middle Eastern Chorasmian script. It has 122 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/chorasmian",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

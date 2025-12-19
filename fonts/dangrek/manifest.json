@@ -1,0 +1,23 @@
+{
+  "name": "Dangrek",
+  "family": "Dangrek",
+  "description": "Dangrek is a Khmer font for headlines, titles and subtitles, and even banner designs. To contribute, see github.com/danhhong/Dangrek .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/Dangrek",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

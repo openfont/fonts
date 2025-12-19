@@ -1,0 +1,34 @@
+{
+  "name": "M PLUS Rounded 1c",
+  "family": "M PLUS Rounded 1c",
+  "description": "",
+  "author": "Coji Morishita, M+ Fonts Project",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "he",
+    "ja",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "Light",
+    "Medium",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

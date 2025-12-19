@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Devanagari",
+  "family": "Noto Sans Devanagari",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Devanagari is an unmodulated (“sans serif”) design for texts in the Indic Devanagari script. It has 954 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/devanagari",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

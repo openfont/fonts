@@ -1,0 +1,26 @@
+{
+  "name": "Caladea",
+  "family": "Caladea",
+  "description": "Caladea is a free modern, friendly serif font family based on Cambo , designed by Carolina Giovagnoli and Andrés Torresi for Huerta Tipográfica. Caladea has the following differences: More condensed width New metrics 4 styles. Regular, Bold, Italic, and Bold Italic Character set expanded to WGL (418 glyphs) To contribute, see github.com/huertatipografica/Caladea .",
+  "author": "Andrés Torresi, Carolina Giovagnoli",
+  "website": "https://github.com/googlefonts/caladea",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

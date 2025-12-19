@@ -1,0 +1,24 @@
+{
+  "name": "Marhey",
+  "family": "Marhey",
+  "description": "Marhey is a playful Display typeface, custom hand lettering with contrast strokes that makes dynamic and expressive impression. It comes with Latin Character sets including Western, Central, and Arabic language support (Kurdish, Persian, Urdu and Jawi). To contribute, see github.com/namelatype/Marhey .",
+  "author": "Nur Syamsi, Bustanul Arifin",
+  "website": "https://github.com/namelatype/Marhey",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LXGW Marker Gothic",
+  "family": "LXGW Marker Gothic",
+  "description": "",
+  "author": "LXGW",
+  "website": "https://github.com/aaronbell/LxgwMarkerGothic",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

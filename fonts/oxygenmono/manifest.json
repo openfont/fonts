@@ -1,0 +1,23 @@
+{
+  "name": "Oxygen Mono",
+  "family": "Oxygen Mono",
+  "description": "Oxygen Mono is the monospace companion family to Oxygen , the KDE project UI and brand type.",
+  "author": "Vernon Adams",
+  "website": "",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

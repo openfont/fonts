@@ -1,0 +1,26 @@
+{
+  "name": "Manjari",
+  "family": "Manjari",
+  "description": "Manjari is a Malayalam and Latin family whose name means pearl in Malayalam. It's also the name of a poetic metre. This family is suitable for body text and titles. To contribute, see github.com/smc/manjari",
+  "author": "Santhosh Thottingal",
+  "website": "https://gitlab.com/smc/fonts/manjari",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ml"
+  ],
+  "styles": [
+    "Bold",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

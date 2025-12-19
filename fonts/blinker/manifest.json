@@ -1,0 +1,30 @@
+{
+  "name": "Blinker",
+  "family": "Blinker",
+  "description": "Blinker is a low contrast sans serif typeface with a squircle as its basic shape, think squarish curves, or Eurostyle’s flamboyant cousin. It’s best used for medium to large text, rather than a long copy. To do its claim justice Blinker also comes with a headline weight with an extra large x-height, tight spacing, and glyphs drawn more narrowly. Blink! The original 9 weights with a latin extended glyph set were designed by supertype’s Jürgen Huber in 2019. To contribute, see github.com/supertype-de/Blinker",
+  "author": "Juergen Huber",
+  "website": "https://github.com/supertype-de/Blinker",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Regular",
+    "SemiBold",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

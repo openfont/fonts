@@ -1,0 +1,24 @@
+{
+  "name": "Trispace",
+  "family": "Trispace",
+  "description": "Trispace is a typeface where all letters occupy one of three possible widths. Monospace inspired, but with some proportional touches. Trispace is designed by Tyler Finck (ETC). To contribute see github.com/Etcetera-Type-Co/Trispace",
+  "author": "Tyler Finck, ETC",
+  "website": "https://github.com/Etcetera-Type-Co/Trispace",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

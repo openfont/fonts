@@ -1,0 +1,24 @@
+{
+  "name": "Benne",
+  "family": "Benne",
+  "description": "Benne is a Kannada text font developed by John Harrington. The style and weights are designed to harmonise with EB Garamond, originally designed by Georg Duffner. To contribute, see github.com/googlefonts/Benne .",
+  "author": "John Harrington",
+  "website": "https://github.com/googlefonts/Benne",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "kn"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

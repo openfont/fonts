@@ -1,0 +1,26 @@
+{
+  "name": "Playfair",
+  "family": "Playfair",
+  "description": "",
+  "author": "Claus Eggers Sørensen",
+  "website": "https://github.com/googlefonts/Playfair",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

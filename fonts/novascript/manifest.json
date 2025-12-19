@@ -1,0 +1,22 @@
+{
+  "name": "Nova Script",
+  "family": "Nova Script",
+  "description": "NovaScript is based on my NovaOval font, and it's a part of the Nova set. I created it because the Nova family was missing an oblique font. Now I consider the Nova family complete.",
+  "author": "Wojciech Kalinowski",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Inter Tight",
+  "family": "Inter Tight",
+  "description": "This is a specialized version of Inter with tighter spacing, for display usage. This version also has Roman and Italic styles. To contribute, see github.com/rsms/inter-gf-tight .",
+  "author": "Rasmus Andersson",
+  "website": "https://github.com/rsms/inter-gf-tight",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

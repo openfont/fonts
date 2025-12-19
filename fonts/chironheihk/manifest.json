@@ -1,0 +1,29 @@
+{
+  "name": "Chiron Hei HK",
+  "family": "Chiron Hei HK",
+  "description": "",
+  "author": "Tamcy",
+  "website": "https://github.com/chiron-fonts/chiron-hei-hk",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ru",
+    "vi",
+    "yue",
+    "zh"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

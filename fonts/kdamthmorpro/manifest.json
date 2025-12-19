@@ -1,0 +1,24 @@
+{
+  "name": "Kdam Thmor Pro",
+  "family": "Kdam Thmor Pro",
+  "description": "Kdam Thmor Pro is a revised design of \"Kdam Thmor\" which is one of Sovichet Tep's typefaces designed and published back in 2013 on Google Fonts. Kdam Thmor Pro is a modern display Khmer typeface based on the writing style of a brush used on a wall. It has an edgy style, a medium size and is suitable for headings and large typography. Gemunu Libre's Latin is used as the Latin counterpart in the project. To contribute, see github.com/sovichet/kdam-thmor-pro",
+  "author": "Tep Sovichet, Hak Longdey",
+  "website": "https://github.com/sovichet/kdam-thmor-pro",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

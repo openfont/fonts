@@ -1,0 +1,23 @@
+{
+  "name": "Matemasie",
+  "family": "Matemasie",
+  "description": "",
+  "author": "Adam Yeo",
+  "website": "https://github.com/YADAMSS/Matemasie-Font",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

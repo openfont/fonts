@@ -1,0 +1,25 @@
+{
+  "name": "WDXL Lubrifont TC",
+  "family": "WDXL Lubrifont TC",
+  "description": "",
+  "author": "NightFurySL2001",
+  "website": "https://github.com/NightFurySL2001/WD-XL-font",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "zh"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

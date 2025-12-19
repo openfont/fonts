@@ -1,0 +1,25 @@
+{
+  "name": "Georama",
+  "family": "Georama",
+  "description": "Georama is an original typeface available in several widths and weights. It supports Google Fonts Latin Plus glyph set, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages. To contribute, please see github.com/productiontype/Georama .",
+  "author": "Production Type",
+  "website": "https://github.com/productiontype/Georama",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

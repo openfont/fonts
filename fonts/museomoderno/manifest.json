@@ -1,0 +1,25 @@
+{
+  "name": "MuseoModerno",
+  "family": "MuseoModerno",
+  "description": "MuseoModerno is a contemporary geometric typeface for the new Identity of the Museum of Modern Art of Buenos Aires (Museo Moderno, AR). Designed by Marcela Romero, Héctor Gatti, Pablo Cosgaya and the Omnibus-Type Team. The June 2022 release completes the family with the italic. To contribute, see github.com/Omnibus-Type/MuseoModerno .",
+  "author": "Omnibus-Type",
+  "website": "https://github.com/Omnibus-Type/MuseoModerno",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

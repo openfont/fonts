@@ -1,0 +1,24 @@
+{
+  "name": "Grey Qo",
+  "family": "Grey Qo",
+  "description": "A contemporary calligraphic script, Grey Qo combines traditional uppercase calligraphics with more stylized script lowercase forms. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/grey-qo .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/grey-qo",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

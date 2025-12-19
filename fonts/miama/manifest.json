@@ -1,0 +1,24 @@
+{
+  "name": "Miama",
+  "family": "Miama",
+  "description": "Miama is based on the many handwritten letters of my girlfriend. Among them are also some ligatures and ornamental glyphs. Every single glyph has been drawn by myself using the free font editor FontForge. Do not use any condensed nor extended spacing! Miama lives from connected strokes, which are killed as soon as you change spacing. Use Miama for main titles, short poems, greeting cards, wedding stuff et cetera. But please do not consider using it for longer texts, especially not for scientific texts. Miama is a very small typeface compared to other fonts. This is due to the very large ascenders and descenders. So if you want to look Miama as a font of 10pt, choose 15-20pt. Also keep in mind, that Miama then still looks quite light, so you want probably resize it even more for titles.",
+  "author": "Linus Romer",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Share Tech Mono",
+  "family": "Share Tech Mono",
+  "description": "Share Tech Mono is a monospaced sans serif, based on the Share family. There is also Share Tech , a proportionally spaced version. Updated, July 2015: 'fi' ligature issue fixed.",
+  "author": "Carrois Apostrophe",
+  "website": "",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

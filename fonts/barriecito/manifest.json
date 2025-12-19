@@ -1,0 +1,24 @@
+{
+  "name": "Barriecito",
+  "family": "Barriecito",
+  "description": "Barriecito is an evolution of the Barrio project, adding lowercase. The amateur appearance conveys a friendly and authentic tone which works well for hand crafted products and billboards. It also works well on screens at headline sizes. To contribute, see github.com/Omnibus-Type/Barrio/tree/master/Barriecito",
+  "author": "Omnibus-Type",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

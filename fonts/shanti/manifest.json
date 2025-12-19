@@ -1,0 +1,23 @@
+{
+  "name": "Shanti",
+  "family": "Shanti",
+  "description": "Shanti One is a straightforward sans serif designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. The September 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/googlefonts/ShantiFont .",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/ShantiFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

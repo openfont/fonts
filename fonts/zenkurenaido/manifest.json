@@ -1,0 +1,26 @@
+{
+  "name": "Zen Kurenaido",
+  "family": "Zen Kurenaido",
+  "description": "Zen Kurenaido is a Japanese font with a handwritten feeling. The brush-like elements are omitted from the design, leaving only the bones of the letter, resulting in an impression of ballpoint handwriting. To contribute to the project, visit github.com/googlefonts/zen-kurenaido Zen Kurenaido は手書きの持ち味を活かした新しい日本語書体のデザインです 毛筆的な要素が取り除かれ、文字の骨格だけが残されているので、ボールペンで書いたような印象を与えるフォントです。 このプロジェクトに参加して貢献したい方は、次の URL をご参照ください github.com/googlefonts/zen-kurenaido 。 To learn more, read Say Hello to our big new Japanese collection with Zen Fonts (English), The Story of Zen Fonts - interview with Yoshimichi Ohira (English), Zenフォント: 新しい日本語フォントコレクションの登場 - 日本語フォントの複雑な美しさについて - (Japanese), and Zenフォントのおはなし：大平善道さんとのインタビュー (Japanese).",
+  "author": "Yoshimichi Ohira",
+  "website": "https://github.com/googlefonts/zen-kurenaido",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

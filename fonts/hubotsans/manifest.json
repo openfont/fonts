@@ -1,0 +1,25 @@
+{
+  "name": "Hubot Sans",
+  "family": "Hubot Sans",
+  "description": "",
+  "author": "Tobias Bjerrome Ahlin, GitHub, Degarism Studio, Sebastian Carewe",
+  "website": "https://github.com/github/hubot-sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

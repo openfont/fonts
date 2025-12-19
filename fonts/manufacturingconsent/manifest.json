@@ -1,0 +1,23 @@
+{
+  "name": "Manufacturing Consent",
+  "family": "Manufacturing Consent",
+  "description": "",
+  "author": "Fredrick Brennan",
+  "website": "https://github.com/googlefonts/manufacturing-consent-font",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

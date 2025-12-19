@@ -1,0 +1,24 @@
+{
+  "name": "Moo Lah Lah",
+  "family": "Moo Lah Lah",
+  "description": "Need a font with bovine fun? Moo Lah Lah has that look! It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/moolahlah .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/moolahlah",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

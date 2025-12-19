@@ -1,0 +1,23 @@
+{
+  "name": "Bree Serif",
+  "family": "Bree Serif",
+  "description": "This friendly upright italic is the serif cousin of TypeTogether's award winning family Bree . Designed by Veronika Burian and José Scaglione, Bree was originally released in 2008 and became an immediate success because of its originality, charming appearance and versatility.",
+  "author": "TypeTogether",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

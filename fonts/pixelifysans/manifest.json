@@ -1,0 +1,24 @@
+{
+  "name": "Pixelify Sans",
+  "family": "Pixelify Sans",
+  "description": "Pixelify Sans fonts are a unique style of typography that originated in the 1980s with the rise of computer graphics and video games. Pixel fonts are characterized by their blocky, pixelated appearance, which is achieved by using a grid of small, square pixels to create each letterform. To contribute, please see github.com/eifetx/Pixelify-Sans .",
+  "author": "Stefie Justprince",
+  "website": "https://github.com/eifetx/Pixelify-Sans",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

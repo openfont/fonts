@@ -1,0 +1,23 @@
+{
+  "name": "Noto Serif Khitan Small Script",
+  "family": "Noto Serif Khitan Small Script",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Khitan Small Script is a design for the historical East Asian Khitan small script script. It has 11,365 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/khitan-small-script",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Strong",
+  "family": "Strong",
+  "description": "Strong is a clean contemporary geometrical sans with humanist proportions. It is designed mainly for headlines, navigation and short blocks of text over 14 px. Its features like splayed terminals and contour inflections improve the overall dymamics of letterforms, which is especially appreciated in Cyrillic script. Designed by Roman Shchyukin from Gaslight.",
+  "author": "Gaslight",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

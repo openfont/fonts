@@ -1,0 +1,23 @@
+{
+  "name": "Fasthand",
+  "family": "Fasthand",
+  "description": "Fasthand is a Khmer font for body text. The Khmer design is inspired by a popular style of Khmer handwriting letterforms that are written quickly. The Latin design is a copy of Seaweed Script , by Neapolitan. To contribute, see github.com/danhhong/Fasthand",
+  "author": "Danh Hong, Neapolitan",
+  "website": "https://github.com/danhhong/Fasthand",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

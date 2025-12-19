@@ -1,0 +1,32 @@
+{
+  "name": "Saira Semi Condensed",
+  "family": "Saira Semi Condensed",
+  "description": "Saira is a sans serif system. It features a huge range of weights and widths, ready for all kind of typographic challenges. This is the Semi Condensed family, which is part of the superfamily along with Normal , Condensed , and Extra Condensed , each with 9 weights. This typeface was designed by Hector Gatti and developed by the Omnibus Type team. To contribute to the project, visit github.com/Omnibus-Type",
+  "author": "Omnibus-Type",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Medium",
+    "Regular",
+    "SemiBold",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

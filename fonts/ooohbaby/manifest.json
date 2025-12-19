@@ -1,0 +1,24 @@
+{
+  "name": "Oooh Baby",
+  "family": "Oooh Baby",
+  "description": "Oooh Baby. This cute little font is perfect for scrapping and fun play! It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/oooh-baby .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/oooh-baby",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

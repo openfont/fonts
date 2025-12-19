@@ -1,0 +1,24 @@
+{
+  "name": "Kings",
+  "family": "Kings",
+  "description": "Imagine a damsel in distress. The only hope is for the Kings Knights to rescue her from certain death. Kings Family is based on the three set font family (Kings Honor, Kings Quest and Kings Dominion). Combined to make a pro font, use this blackletter font with enchantment. To contribute, see github.com/googlefonts/kings .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/kings",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

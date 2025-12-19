@@ -1,0 +1,24 @@
+{
+  "name": "Crete Round",
+  "family": "Crete Round",
+  "description": "Crete Round is a warm slab serif providing a hint of softness to texts. It started as a tailored version of the original Crete fonts , created specially to serve as corporate typeface for the type design competition Letter2 . Crete Round is more independent from the original with modified terminals and serifs to create two new fonts that deliver a more contemporary and functional appearance. The tall x-height, low contrast and sturdy slabs prove to be surprisingly efficient for web use.",
+  "author": "TypeTogether",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Rethink Sans",
+  "family": "Rethink Sans",
+  "description": "",
+  "author": "Hans Thiessen",
+  "website": "https://github.com/hans-thiessen/Rethink-Sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Chonburi",
+  "family": "Chonburi",
+  "description": "Chonburi is a new Thai + Latin typeface for display usage, with an formal looped + serif design. The Chonburi project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/chonburi",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/chonburi",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

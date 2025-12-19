@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Nag Mundari",
+  "family": "Noto Sans Nag Mundari",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Nag Mundari is a design for the Indic Nag Mundari script. It has multiple weights, and has 66 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/nag-mundari",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lustria",
+  "family": "Lustria",
+  "description": "Lustria is a rounded-serif text typeface with details that make it interesting to use at larger display sizes as well. Started in 1999, this typeface has been aged to perfection and is finally ready for public consumption.",
+  "author": "MADType",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

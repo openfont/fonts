@@ -1,0 +1,24 @@
+{
+  "name": "Lovers Quarrel",
+  "family": "Lovers Quarrel",
+  "description": "A playful calligraphic style, Lovers Quarrel is great for scrapbooking, cards, invitations and other fun things. Lovers Quarrel has exceptionally clean lowercase forms and beautifully ornate capital letters. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/lovers-quarrel .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/lovers-quarrel",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

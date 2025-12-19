@@ -1,0 +1,25 @@
+{
+  "name": "Kanchenjunga",
+  "family": "Kanchenjunga",
+  "description": "",
+  "author": "Becca Hirsbrunner Spalinger",
+  "website": "https://github.com/silnrsi/font-kanchenjunga/",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Bold",
+    "Medium",
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

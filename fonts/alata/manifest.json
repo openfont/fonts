@@ -1,0 +1,24 @@
+{
+  "name": "Alata",
+  "family": "Alata",
+  "description": "Alata is a geometric low contrast sans design. It can feel monumental, serious and archaic and occasionally eccentric. It draws inspiration from both Early 20th C poster lettering and epigraphic Greek mono line letters. Curiously the capitals letters draw influence from UK Lettering while in contrast the lower case is more 'continental' or European in character. Alata offers a wide range of figures including oldstyle figures, small numbers including superiors and fractions. Alata also offers case sensitive forms. Alata is an original typeface designed by Spyros Zevelakis. . Eben Sorkin expanded the language support and refined the design in 2018. Alata is published by Sorkin Type . To contribute, see Alata GitHub",
+  "author": "Spyros Zevelakis, Eben Sorkin",
+  "website": "https://github.com/SorkinType/Alata",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

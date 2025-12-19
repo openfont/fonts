@@ -1,0 +1,24 @@
+{
+  "name": "RocknRoll One",
+  "family": "RocknRoll One",
+  "description": "RocknRoll is an original pop-style font. The strokes of varying intensity add momentum and the rounded dots create a lively and dynamic feel. To contribute to the project, visit github.com/fontworks-fonts/RocknRoll",
+  "author": "Fontworks Inc.",
+  "website": "https://github.com/fontworks-fonts/RocknRoll",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

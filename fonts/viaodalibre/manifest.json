@@ -1,0 +1,25 @@
+{
+  "name": "Viaoda Libre",
+  "family": "Viaoda Libre",
+  "description": "Viaoda Libre is a display family inspired by Vietnamese cultural symbolism. Its design feels traditional yet it features some modern elements. Viaoda Libre works well in large titles and subtitles. We're actively working on the family. We hope to improve the Vietnamese in future releases. Contact at gydient.com Contribute at github.com/bettergui/ViaodaLibre",
+  "author": "Gydient, ViệtAnh Nguyễn",
+  "website": "https://github.com/bettergui/ViaodaLibre",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

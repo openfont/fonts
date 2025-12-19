@@ -1,0 +1,24 @@
+{
+  "name": "Borel",
+  "family": "Borel",
+  "description": "",
+  "author": "Rosalie Wagner",
+  "website": "https://github.com/RosaWagner/Borel",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

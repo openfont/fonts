@@ -1,0 +1,32 @@
+{
+  "name": "Encode Sans Expanded",
+  "family": "Encode Sans Expanded",
+  "description": "Encode Sans is a versatile workhorse sans serif design, featuring a huge range of weights and widths, ready for all kind of typographic challenges. This is the Expanded family, which is part of the superfamily along with Normal , Condensed , Semi Condensed , and Semi Expanded , families, each with 9 weights. This project is led by Impallari Type, a foundry based in Rosario, Argentina. It was initially designed by Pablo Impallari and Andres Torresi. To contribute, see github.com/impallari/Encode-Sans",
+  "author": "Impallari Type, Andres Torresi, Jacques Le Bailly",
+  "website": "https://github.com/impallari/Encode-Sans",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Medium",
+    "Regular",
+    "SemiBold",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

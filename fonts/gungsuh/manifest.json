@@ -1,0 +1,26 @@
+{
+  "name": "Gungsuh",
+  "family": "Gungsuh",
+  "description": "Gungsuh is a well-known myeongjo(brush)-style font that first shipped with Windows 95. It is derived from handwritten calligraphy and is more suitable for shorter text strings or display applications than long-form text. This version includes proportional Latin characters. For a version with monospace, half-width Latin characters, see GungsuhChe. To contribute to this project, please visit github.com/googlefonts/batang .",
+  "author": "HanYang I&C Co.",
+  "website": "https://github.com/googlefonts/batang",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ko",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

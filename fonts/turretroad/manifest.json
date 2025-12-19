@@ -1,0 +1,28 @@
+{
+  "name": "Turret Road",
+  "family": "Turret Road",
+  "description": "Turret Road is a geometric sans serif typeface, with very low contrast, high x-height, high glyph height, and playful diacritics. Turret Road delves into eugenics, solar evolution, science fiction and homeward conversations. For more information, see its project overview . To contribute, see github.com/noponies/Turret-Road .",
+  "author": "Dale Sattler",
+  "website": "https://github.com/noponies/Turret-Road",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Medium",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

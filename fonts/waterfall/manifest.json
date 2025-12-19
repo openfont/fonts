@@ -1,0 +1,24 @@
+{
+  "name": "Waterfall",
+  "family": "Waterfall",
+  "description": "Waterfall is a calligraphic script that combines elements of traditional hand lettered italic form with more formal, elegant script connecting characters. It's both beautiful and contemporary. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/waterfall .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/waterfall",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

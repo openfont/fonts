@@ -1,0 +1,23 @@
+{
+  "name": "Fanwood Text",
+  "family": "Fanwood Text",
+  "description": "Fanwood Text is a revival of Fairfield , the typeface first published in 1940 and designed by Rudolph Ruzicka, a famous Czech-American type designer. The roman and italic are slightly darker and reduced in contrast than the original; this was tailored for increased readability on the Amazon Kindle 3 e-book reader hardware. To learn more, see bitbucket.org/sortsmill/sortsmill-fonts and the theleagueofmoveabletype.com/fanwood",
+  "author": "Barry Schwartz",
+  "website": "https://github.com/theleagueof/fanwood",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

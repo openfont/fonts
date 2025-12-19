@@ -1,0 +1,26 @@
+{
+  "name": "Share",
+  "family": "Share",
+  "description": "Share is a sans serif family. There are two more related families, Share Tech and Share Tech Mono .",
+  "author": "Carrois Apostrophe",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

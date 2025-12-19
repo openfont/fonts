@@ -1,0 +1,23 @@
+{
+  "name": "Libertinus Mono",
+  "family": "Libertinus Mono",
+  "description": "",
+  "author": "Philipp H. Poll",
+  "website": "https://github.com/googlefonts/libertinus",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

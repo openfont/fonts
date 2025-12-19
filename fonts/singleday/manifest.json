@@ -1,0 +1,22 @@
+{
+  "name": "Single Day",
+  "family": "Single Day",
+  "description": "Single Day is a Korean and Latin font.",
+  "author": "DXKorea Inc",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Story Script",
+  "family": "Story Script",
+  "description": "",
+  "author": "Lana Roulhac, Ben Buysse",
+  "website": "https://github.com/lroulh/story-script",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

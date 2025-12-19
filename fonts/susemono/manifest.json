@@ -1,0 +1,25 @@
+{
+  "name": "SUSE Mono",
+  "family": "SUSE Mono",
+  "description": "",
+  "author": "René Bieder",
+  "website": "https://github.com/SUSE/suse-font",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Graduate",
+  "family": "Graduate",
+  "description": "\"Graduate\" showcases a high-quality rendition of the classic college block style of lettering commonly seen across campuses throughout the USA. To contribute, visit github.com/etunni/graduate .",
+  "author": "Eduardo Tunni",
+  "website": "https://github.com/etunni/graduate",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

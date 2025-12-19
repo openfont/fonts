@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Lydian",
+  "family": "Noto Sans Lydian",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Lydian is an unmodulated (“sans serif”) design for texts in the historical European Lydian script. It has 32 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/lydian",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Francois One",
+  "family": "Francois One",
+  "description": "Francois One is a reworking of traditional sans serif gothic display typeface forms. In Francois One, the earlier letter forms have been digitised and then reshaped for use as a webfont, the counters have been opened up a little and the stems optimised for use as bold display font in modern web browsers. Slanted stem terminals have been added to give the face added visual play.",
+  "author": "Vernon Adams",
+  "website": "https://github.com/googlefonts/francoisoneFont",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

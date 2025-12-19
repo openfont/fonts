@@ -1,0 +1,25 @@
+{
+  "name": "Gaegu",
+  "family": "Gaegu",
+  "description": "Gaegu is a Korean and Latin font",
+  "author": "JIKJI SOFT",
+  "website": "",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

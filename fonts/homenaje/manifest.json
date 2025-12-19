@@ -1,0 +1,22 @@
+{
+  "name": "Homenaje",
+  "family": "Homenaje",
+  "description": "Homenaje is inspired by the bronze cemetery art found in the Recoleta and Chacaritas districts of Buenos Aires, Argentina. A grotesque and narrow type, it provides economy in text setting without losing its strong, straight and steady features. The name “Homenaje” means tribute in Spanish, a modest way to honor the patient and accurate work of the lettering artists whose bronze letters honor a lifetime. Designed by Constanza Artigas Preller and Agustina Mingote.",
+  "author": "Constanza Artigas Preller, Agustina Mingote",
+  "website": "https://github.com/googlefonts/Homenaje",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

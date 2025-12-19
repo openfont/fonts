@@ -1,0 +1,23 @@
+{
+  "name": "Noto Serif Khojki",
+  "family": "Noto Serif Khojki",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Khojki is an modulated (“serif”) design for texts in the Indic Khojki script. It has 423 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/khojki",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

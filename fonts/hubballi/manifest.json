@@ -1,0 +1,24 @@
+{
+  "name": "Hubballi",
+  "family": "Hubballi",
+  "description": "Hubballi is a Kannada and Latin typeface designed by Erin McLaughlin. Hubballi is a monolinear typeface with an informal, friendly appearance. To contribute to the project, visit github.com/erinmclaughlin/Hubballi",
+  "author": "Erin McLaughlin",
+  "website": "https://github.com/erinmclaughlin/Hubballi",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "kn"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

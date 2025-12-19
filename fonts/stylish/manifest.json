@@ -1,0 +1,22 @@
+{
+  "name": "Stylish",
+  "family": "Stylish",
+  "description": "Stylish is a Korean and Latin font",
+  "author": "AsiaSoft Inc",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

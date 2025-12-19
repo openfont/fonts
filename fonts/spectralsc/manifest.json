@@ -1,0 +1,38 @@
+{
+  "name": "Spectral SC",
+  "family": "Spectral SC",
+  "description": "Spectral is a new and versatile serif face available in seven weights of roman and italic, with small caps. Spectral offers an efficient, beautiful design that’s intended primarily for text-rich, screen-first environments and long-form reading. Brought to you by Production Type and commissioned by Google Fonts, Spectral is now free to use across Google Docs, Sheets, and Slides, or in any of your projects. To contribute, see github.com/productiontype/Spectral .",
+  "author": "Production Type",
+  "website": "https://github.com/productiontype/Spectral",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "ExtraBold",
+    "ExtraBold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

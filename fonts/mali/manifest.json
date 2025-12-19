@@ -1,0 +1,36 @@
+{
+  "name": "Mali",
+  "family": "Mali",
+  "description": "Mali is a Thai and Latin family which was inspired by a 6th graders' handwriting. It exudes a carefree and naive appearance.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/Mali",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "ExtraLight",
+    "ExtraLight Italic",
+    "Italic",
+    "Light",
+    "Light Italic",
+    "Medium",
+    "Medium Italic",
+    "Regular",
+    "SemiBold",
+    "SemiBold Italic"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

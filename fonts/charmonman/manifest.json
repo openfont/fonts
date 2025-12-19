@@ -1,0 +1,26 @@
+{
+  "name": "Charmonman",
+  "family": "Charmonman",
+  "description": "Charmonman is a Thai and Latin family which takes inspiration from Zapfino. It features tall ascenders and descenders with swashed letterforms.",
+  "author": "Cadson Demak",
+  "website": "https://github.com/cadsondemak/Charmonman",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "th",
+    "vi"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bytesized",
+  "family": "Bytesized",
+  "description": "",
+  "author": "Baltdev",
+  "website": "https://github.com/balt-dev/bytesized-gf",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

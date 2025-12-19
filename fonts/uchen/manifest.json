@@ -1,0 +1,23 @@
+{
+  "name": "Uchen",
+  "family": "Uchen",
+  "description": "Uchen is a free, Unicode compatible, Tibetan script font designed in Uchen style, it is suitable for use in desktop publishing. Created for the Dzongkha Development Commission . Uchen is also available here .",
+  "author": "Christopher J. Fynn",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "bo",
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

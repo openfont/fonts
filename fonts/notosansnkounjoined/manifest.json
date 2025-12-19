@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans NKo Unjoined",
+  "family": "Noto Sans NKo Unjoined",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans N’Ko Unjoined is an unmodulated (“sans serif”) design for display texts in the African N’Ko script. It has 184 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/nko",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

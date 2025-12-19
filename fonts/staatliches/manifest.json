@@ -1,0 +1,23 @@
+{
+  "name": "Staatliches",
+  "family": "Staatliches",
+  "description": "Staatliches is a clean cut display face with charmingly unconventional proportions. The alphabet was designed in response to Herbert Bayer’s title lettering on the cover of the first Bauhaus exhibition catalogue , which was published in 1923. It features full sets of capitals, numbers, punctuation, and symbols, in addition to alternate widths, discretionary ligatures, and common Latin accents.",
+  "author": "Brian LaRossa, Erica Carras",
+  "website": "https://github.com/googlefonts/staatliches",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

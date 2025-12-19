@@ -1,0 +1,23 @@
+{
+  "name": "Kalnia Glaze",
+  "family": "Kalnia Glaze",
+  "description": "",
+  "author": "Frida Medrano",
+  "website": "https://github.com/fridamedrano/Kalnia-Glaze",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

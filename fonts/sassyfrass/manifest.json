@@ -1,0 +1,24 @@
+{
+  "name": "Sassy Frass",
+  "family": "Sassy Frass",
+  "description": "SassyFrass is a fun little script font with lots of squiggles and giggles, especially in the uppercase forms. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/sassy-frass .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/sassy-frass",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Yantramanav",
+  "family": "Yantramanav",
+  "description": "Yantramanav (यंत्रमानव) is a Devanagari typeface family designed by Erin McLaughlin. The style and weights of Yantramanav's Devanagari were designed as a compliment to Roboto , a Latin family designed by Christian Robertson. This project is led by Erin McLaughlin, an independent typeface designer, font developer, and consultant who specializes in Indic fonts. To contribute, see github.com/erinmclaughlin/Yantramanav",
+  "author": "Erin McLaughlin",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "Light",
+    "Medium",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Six Caps",
+  "family": "Six Caps",
+  "description": "Six Caps is a highly condensed and tight display font. It is a stripped down and 'normalised' version of the classic grotesk display forms.",
+  "author": "Vernon Adams",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

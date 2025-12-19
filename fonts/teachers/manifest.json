@@ -1,0 +1,25 @@
+{
+  "name": "Teachers",
+  "family": "Teachers",
+  "description": "",
+  "author": "Alfredo Marco Pradil, Chank Diesel",
+  "website": "https://github.com/chankfonts/Teachers-fonts",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

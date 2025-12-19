@@ -1,0 +1,24 @@
+{
+  "name": "Playpen Sans Deva",
+  "family": "Playpen Sans Deva",
+  "description": "",
+  "author": "TypeTogether, Pooja Saxena, Gunjan Panchal, Laura Meseguer, Veronika Burian, José Scaglione",
+  "website": "https://github.com/TypeTogether/Playpen-Sans",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

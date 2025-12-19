@@ -1,0 +1,25 @@
+{
+  "name": "Unbounded",
+  "family": "Unbounded",
+  "description": "Unbounded is possibly the first open source, freely available and on-chain funded font in the world, thanks to the Polkadot treasury. Unbounded by both name and nature, it is available in eight display weights ranging from Light to Black as a variable font. The typeface supports both Latin and Cyrillic scripts with over 1300 individual glyphs, including a collection of symbols and a unique figure building system. In addition the sizeable glyph set accommodates for hundreds of languages worldwide. Unbounded is the product of a joint collaboration between Studio Koto , NaN, Parity Technologies and Web3 Foundation for Polkadot Network . To contribute, please see github.com/googlefonts/unbounded .",
+  "author": "NaN",
+  "website": "https://github.com/googlefonts/unbounded",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Yrsa",
+  "family": "Yrsa",
+  "description": "Intended for continuous reading on the web (longer articles in online news, magazines, blogs), Yrsa supports over 92 languages. A special consideration was given to Central and East European languages and proper shaping of their accents. A version that also supports 2 languages in the Gujarati script (Gujarati and Kachchi), is available as Rasa . In terms of glyphs included Rasa is a superset of Yrsa and includes the complete Latin, but in Rasa the Latin may be adjusted to support the primary Gujarati font. It is a deliberate experiment in remixing existing typefaces: The Latin part began with Eben Sorkin's Merriweather . The Gujarati began with David Březina’s Skolar Gujarati . To contribute, see github.com/rosettatype/yrsa .",
+  "author": "Rosetta, Anna Giedryś, David Březina",
+  "website": "https://github.com/rosettatype/yrsa-rasa",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

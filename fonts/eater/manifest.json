@@ -1,0 +1,23 @@
+{
+  "name": "Eater",
+  "family": "Eater",
+  "description": "Eater is a display font infected by the darkest of rare disease that slowly spreads at night while the webfont user sleeps.",
+  "author": "Typomondo",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

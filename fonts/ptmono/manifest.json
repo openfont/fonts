@@ -1,0 +1,24 @@
+{
+  "name": "PT Mono",
+  "family": "PT Mono",
+  "description": "PT Mono was developed for specific uses in forms, tables, worksheets and other contexts. Equal character widths are very helpful in setting complex documents, as with such a font you may easily calculate size of entry fields, column widths in tables and so on. One of the most important areas of use is in governmental web sites where visitors have to fill different forms. Currently PT Mono consists of just one Regular style. PT Mono was designed by Alexandra Korolkova with participation of Isabella Chaeva and with the financial support of Google Web Fonts.",
+  "author": "ParaType",
+  "website": "",
+  "category": "Monospace",
+  "tags": [
+    "monospace",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

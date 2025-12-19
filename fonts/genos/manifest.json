@@ -1,0 +1,25 @@
+{
+  "name": "Genos",
+  "family": "Genos",
+  "description": "Genos is a modern display font with a futuristic feel. Within the Genos family are fourteen variations ranging from Thin to Black. Whether it be futuristic, industrial, or technical, Genos may be what you're looking for. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/genos .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/genos",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

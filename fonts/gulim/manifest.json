@@ -1,0 +1,26 @@
+{
+  "name": "Gulim",
+  "family": "Gulim",
+  "description": "Gulim is a well-known gothic-style font that first shipped with Windows 95. It was designed with clean, simple strokes for clarity in user interfaces, and has rounded terminals. This version includes proportional Latin characters. For a version with monospace, half-width Latin characters, see GulimChe. To contribute to this project, please visit github.com/googlefonts/gulim .",
+  "author": "HanYang I&C Co.",
+  "website": "https://github.com/googlefonts/gulim",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ko",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

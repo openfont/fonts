@@ -1,0 +1,25 @@
+{
+  "name": "Redacted Script",
+  "family": "Redacted Script",
+  "description": "Redacted and Redacted Script are suitable for wireframing and rapid prototyping. Designed to be unreadable, it keeps your wireframes free of distracting Lorem Ipsum or other dummy text. To contribute, see github.com/christiannaths/redacted-font . To learn more, read Flow and Redacted: Check out these new options for wireframes and other early-stage designs .",
+  "author": "Christian Naths",
+  "website": "https://github.com/christiannaths/redacted-font",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Bold",
+    "Light",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

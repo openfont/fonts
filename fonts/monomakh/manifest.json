@@ -1,0 +1,24 @@
+{
+  "name": "Monomakh",
+  "family": "Monomakh",
+  "description": "Monomakh is a Cyrillic font implemented in a mixed ustav/poluustav style and intended to cover needs of researches dealing with Slavic history and philology. It also provides Latin characters in a similar typeface, which is useful for working with multilingual academic editions. To contribute, please see github.com/slavonic/Monomakh .",
+  "author": "Aleksandr Andreev, Nikita Simmons",
+  "website": "https://github.com/slavonic/Monomakh",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Koh Santepheap",
+  "family": "Koh Santepheap",
+  "description": "Koh Santepheap is a Khmer font for body text, that pairs well with Latin serif fonts and for bilingual (English - Khmer) text. To contribute, see github.com/danhhong/KohSantepheap .",
+  "author": "Danh Hong",
+  "website": "https://github.com/danhhong/KohSantepheap",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "km"
+  ],
+  "styles": [
+    "Black",
+    "Bold",
+    "Light",
+    "Regular",
+    "Thin"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

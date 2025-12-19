@@ -1,0 +1,27 @@
+{
+  "name": "Cambay",
+  "family": "Cambay",
+  "description": "Cambay is a libre Devanagari typeface family designed to match the Latin Cantarell . It comes in two weights, Regular and Bold, in upright and oblique styles. The oblique styles are slanted with only the absolutely necessary optical corrections. This project is led by Pooja Saxena, a type designer based in Bangalore, India. To contribute, see Cambay on GitHub .",
+  "author": "Pooja Saxena",
+  "website": "https://github.com/anexasajoop/cambay",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

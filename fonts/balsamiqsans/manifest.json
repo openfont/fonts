@@ -1,0 +1,27 @@
+{
+  "name": "Balsamiq Sans",
+  "family": "Balsamiq Sans",
+  "description": "Balsamiq Sans is the handwritten font created for the Balsamiq Wireframes and has been in use since version 2.1. The font contains 942 glyphs in 2 weights with italics/obliques, and includes the basic and extended latin character set, Cyrillic, Basic Symbols and Dingbats, Math and Technical Symbols, and punctuation To contribute, see github.com/balsamiq/balsamiqsans",
+  "author": "Michael Angeles",
+  "website": "https://github.com/balsamiq/balsamiqsans",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ru"
+  ],
+  "styles": [
+    "Bold",
+    "Bold Italic",
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

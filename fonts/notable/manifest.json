@@ -1,0 +1,22 @@
+{
+  "name": "Notable",
+  "family": "Notable",
+  "description": "Notable is an uppercase sans serif display font; it’s letterforms are based on those found on U.S. currency. Notable was designed by Eli Block , Hana Tanimura , and Noemie Le Coz for Notable Women , an initiative by former Treasurer of the United States, Rosie Rios. Notable Women is an augmented reality experiment that lets anyone see 100 historic American women where they’ve historically been left out: U.S. currency.",
+  "author": "Eli Block, Hana Tanimura, Noemie Le Coz",
+  "website": "https://github.com/googlefonts/notable",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

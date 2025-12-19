@@ -1,0 +1,24 @@
+{
+  "name": "Akaya Kanadaka",
+  "family": "Akaya Kanadaka",
+  "description": "Akaya is a single weight experimental display typeface in Kannada, Telugu and Latin scripts. Akaya Kanadaka and Akaya Telivigala are made as two separate font files which share a common Latin. To contribute, please see github.com/vaishnavimurthy/Akaya-Kanadaka .",
+  "author": "Vaishnavi Murthy, Juan Luis Blanco",
+  "website": "https://github.com/vaishnavimurthy/Akaya-Kanadaka",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "kn"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

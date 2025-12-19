@@ -1,0 +1,25 @@
+{
+  "name": "Potta One",
+  "family": "Potta One",
+  "description": "Potta One is a single style family which features letterforms that have been inspired by brush lettering. To contribute to the project, visit github.com/go108go/Potta",
+  "author": "Font Zone 108",
+  "website": "https://github.com/go108go/Potta",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

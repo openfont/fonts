@@ -1,0 +1,24 @@
+{
+  "name": "Karla",
+  "family": "Karla",
+  "description": "Karla is a grotesque sans serif family which has been expanded now to a variable font with a weight axis ranging from ExtraLight to ExtraBold plus full support of Western, Central, and South-Eastern European languages. To contribute, see github.com/googlefonts/karla .",
+  "author": "Jonny Pinhorn",
+  "website": "https://github.com/googlefonts/karla",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

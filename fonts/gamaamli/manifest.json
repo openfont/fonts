@@ -1,0 +1,24 @@
+{
+  "name": "Ga Maamli",
+  "family": "Ga Maamli",
+  "description": "",
+  "author": "Afotey Clement Nii Odai, Ama Diaka, David Abbey-Thompson",
+  "website": "https://github.com/SorkinType/GaMaamli",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

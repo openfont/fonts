@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans New Tai Lue",
+  "family": "Noto Sans New Tai Lue",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans New Tai Lue is an unmodulated (“sans serif”) design for texts in the Southeast Asian New Tai Lue script. It has 95 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/new-tai-lue",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Boldonse",
+  "family": "Boldonse",
+  "description": "",
+  "author": "Universitype",
+  "website": "https://github.com/googlefonts/boldonse",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

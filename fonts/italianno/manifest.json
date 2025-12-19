@@ -1,0 +1,24 @@
+{
+  "name": "Italianno",
+  "family": "Italianno",
+  "description": "Italianno is an elegant, calligraphic script. It's clean connecting strokes distinguish itself from other classic forms which makes it perfect for invitations, scrap-booking, and packaging. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/italianno .",
+  "author": "Robert Leuschke",
+  "website": "https://github.com/googlefonts/italianno",
+  "category": "Handwriting",
+  "tags": [
+    "handwriting",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

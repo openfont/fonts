@@ -1,0 +1,24 @@
+{
+  "name": "Foldit",
+  "family": "Foldit",
+  "description": "Foldit is a variable-gradient COLRv1 font which uses gradients to play with dimensions and give a sense of space. The concept of this design was, as the name suggests, based on a folded paper strip. This font uses the COLRv1 and CPAL tables. Please visit the gf-guide color page to learn more about Color Fonts technology. To contribute, see https://github.com/SophiaDesign/Foldit .",
+  "author": "Sophia Tai",
+  "website": "https://github.com/SophiaDesign/Foldit",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

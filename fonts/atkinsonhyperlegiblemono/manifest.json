@@ -1,0 +1,24 @@
+{
+  "name": "Atkinson Hyperlegible Mono",
+  "family": "Atkinson Hyperlegible Mono",
+  "description": "",
+  "author": "Braille Institute, Applied Design Works, Elliott Scott, Megan Eiswerth, Letters From Sweden",
+  "website": "https://github.com/googlefonts/atkinson-hyperlegible-next-mono",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lohit Bengali",
+  "family": "Lohit Bengali",
+  "description": "The Lohit Bengali font is from the Fedora Project.",
+  "author": "Multiple Designers",
+  "website": "https://github.com/pravins/lohit",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "bn"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

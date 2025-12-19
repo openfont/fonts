@@ -1,0 +1,24 @@
+{
+  "name": "Wittgenstein",
+  "family": "Wittgenstein",
+  "description": "",
+  "author": "Jörg Drees",
+  "website": "https://github.com/jrgdrs/Wittgenstein",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Italic",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

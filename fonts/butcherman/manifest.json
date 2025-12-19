@@ -1,0 +1,23 @@
+{
+  "name": "Butcherman",
+  "family": "Butcherman",
+  "description": "Butcherman is a zombified display font, hacked and chopped and left for dead, yet still crawling.",
+  "author": "Typomondo",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

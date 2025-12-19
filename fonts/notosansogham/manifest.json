@@ -1,0 +1,23 @@
+{
+  "name": "Noto Sans Ogham",
+  "family": "Noto Sans Ogham",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Ogham is an unmodulated (“sans serif”) design for texts in the historical European Ogham script. It has 34 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/ogham",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

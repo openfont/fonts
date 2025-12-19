@@ -1,0 +1,26 @@
+{
+  "name": "DotumChe",
+  "family": "DotumChe",
+  "description": "DotumChe is a well-known gothic-style font that first shipped with Windows 95. It was designed with clean, simple strokes for clarity in user interfaces. This version includes monospace, half-width Latin characters. For a version with proportional Latin characters, see Gulim. To contribute to this project, please visit github.com/googlefonts/gulim .",
+  "author": "HanYang I&C Co.",
+  "website": "https://github.com/googlefonts/gulim",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "ko",
+    "ru"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

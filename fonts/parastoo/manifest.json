@@ -1,0 +1,26 @@
+{
+  "name": "Parastoo",
+  "family": "Parastoo",
+  "description": "",
+  "author": "Saber Rastikerdar",
+  "website": "https://github.com/googlefonts/parastoo-font",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "fa",
+    "vi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

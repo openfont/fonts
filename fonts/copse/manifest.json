@@ -1,0 +1,22 @@
+{
+  "name": "Copse",
+  "family": "Copse",
+  "description": "Copse is a low-contrast slab serif that is a little soft around the edges, but with a clear and sturdy posture.",
+  "author": "Dan Rhatigan",
+  "website": "",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

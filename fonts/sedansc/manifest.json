@@ -1,0 +1,23 @@
+{
+  "name": "Sedan SC",
+  "family": "Sedan SC",
+  "description": "Sedan is a Garalde typeface prized for its timeless elegance, perfect for enhancing publications. With balanced proportions, subtle contrasts, and graceful serifs, Sedan offer both clarity and sophistication. Its versatility makes it ideal for various print materials, from magazines to scholarly journals, ensuring text remains inviting and accessible while exuding classic charm. Sedan embodies the enduring allure of Garalde designs in publishing. Check out the classic Sedan family, with a Regular and Italic styles. To contribute, see github.com/googlefonts/sedan .",
+  "author": "Sebastián Salazar",
+  "website": "https://github.com/googlefonts/sedan",
+  "category": "Serif",
+  "tags": [
+    "serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bhavuka",
+  "family": "Bhavuka",
+  "description": "Bhavuka is a playful Latin and Devanagari typeface. It started life as Snippet, by Gesine Todt. The Bhavuka project is led by Matt Heximer, a type designer based in Vancouver. To contribute, see github.com/10four/Bhavuka",
+  "author": "Multiple Designers",
+  "website": "https://github.com/10four/Bhavuka",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Spicy Rice",
+  "family": "Spicy Rice",
+  "description": "Casual and exciting, Spicy Rice has a festive flair to it that works for winter holidays as well as summertime jams. The extra heavy letterforms imbued with a little exotic flavor are waiting for you to bring it to the party!",
+  "author": "Astigmatic",
+  "website": "",
+  "category": "Display",
+  "tags": [
+    "display",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

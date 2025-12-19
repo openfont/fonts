@@ -1,0 +1,30 @@
+{
+  "name": "Ek Mukta",
+  "family": "Ek Mukta",
+  "description": "This project was renamed Mukta This project is led by Ek Type, a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces. To contribute, see github.com/EkType/Mukta",
+  "author": "Ek Type",
+  "website": "https://github.com/googlefonts/MuktaGFVersion",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi"
+  ],
+  "styles": [
+    "Bold",
+    "ExtraBold",
+    "ExtraLight",
+    "Light",
+    "Medium",
+    "Regular",
+    "SemiBold"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

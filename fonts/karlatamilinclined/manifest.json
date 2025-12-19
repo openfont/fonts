@@ -1,0 +1,23 @@
+{
+  "name": "Karla Tamil Inclined",
+  "family": "Karla Tamil Inclined",
+  "description": "Karla is a grotesque sans serif typeface family that supports languages that use the Latin script and the Tamil script. This is the Tamil script part of the family, with Inclined styles in two weights, Regular and Bold. The Latin part is available from the Karla specimen page. Karla Tamil does not currently work on iPhones and iPads, because iOS doesn't render OpenType Layout shaping, only AAT shaping. Mac OS X, Windows and GNU+Linux all render OpenType Layout shaping. These Tamil fonts do not have AAT shaping, so they won't render correctly, but the iOS system font does. To contribute to the project contact Jonathan Pinhorn .",
+  "author": "Jonathan Pinhorn",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "ta"
+  ],
+  "styles": [
+    "Bold",
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}

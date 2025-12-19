@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Oriya",
+  "family": "Noto Sans Oriya",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Oriya is an unmodulated (“sans serif”) design for texts in the Indic Odia (Oriya) script. It has 513 glyphs.",
+  "author": "Google",
+  "website": "https://github.com/notofonts/oriya",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "or"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}
